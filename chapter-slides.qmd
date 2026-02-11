@@ -145,13 +145,13 @@ It's important to understand where invasive fungal infections fit within the bro
 
 Estimated fungal species: 3-4 million; <br>Known human pathogenic species: \~300–600 species
 
-![](images/Screenshot 2026-02-11 at 18.28.59.png){fig-align="center"}
+![](images/Screenshot%202026-02-11%20at%2018.28.59.png){fig-align="center"}
 
 ## Will this change with global warming?
 
 <center>Ophiocordyceps unilaterali: "Zombie-ant fungus"</center>
 
-![](images/Screenshot 2026-02-11 at 18.30.40.png)
+![](images/Screenshot%202026-02-11%20at%2018.30.40.png)
 
 ## WHO Fungal Priority Pathogens List (2022)
 
@@ -201,9 +201,13 @@ The timeline of antifungal development shows periods of innovation followed by g
 
 ## Antifungal Targets
 
+<br>
+
 ![](images/Sites%20of%20Action%20of%20Antifungals.png){fig-align="center"}
 
 ## Antifungal targets
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -273,11 +277,11 @@ This table is critical for clinical decision-making. Key points: Fluconazole has
 Tissue penetration is a major factor in drug selection. The most important clinical limitation is echinocandins: they don't get into CSF, eye, or urine. I've seen patients with candiduria treated with caspofungin - this will fail. Fluconazole remains our best drug for urinary candidiasis. For CNS Aspergillosis, voriconazole is preferred over echinocandins.
 :::
 
-# Part 2: Invasive Candidiasis {background-color="#9B0014"}
+# <br> <br> <br> <br> Part 2: Invasive Candidiasis {background-color="#9B0014"}
 
 ## A brave surgical resident
 
-![](images/img-069.jpg)
+![](images/img-069.jpg){width="600"}
 
 ::: aside
 [@krause1969]
@@ -544,14 +548,14 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 <br> <br>
 
 | Species           | Fluconazole     | Echinocandins | Clinical Note               |
-|------------------|------------------|------------------|--------------------|
+|-------------------|-----------------|---------------|-----------------------------|
 | *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
 | *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
 | *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
 | *C. parapsilosis* | S ≤2            | Higher MICs   | Fluconazole often preferred |
 | *C. auris*        | Often R         | Variable      | Test everything             |
 
-<br> Species identification usually drives empiric therapy ::: notes Species identification drives empiric therapy, but susceptibility testing is essential. C. glabrata has increased resistance to both azoles and echinocandins - you need to test. C. krusei is inherently fluconazole-resistant. C. parapsilosis has higher echinocandin MICs, so fluconazole may be preferred. C. auris requires individual testing - resistance patterns vary by clade and geography. :::
+<br> Species identification usually drives empiric therapy
 
 ## *Candida auris*: Emerging Threat
 
@@ -600,7 +604,7 @@ Cryptococcosis remains one of the leading causes of death in people living with 
 ## *Cryptococcus* Species
 
 | Species | Primary Host | Geography | Environment |
-|------------------|------------------|-------------------|------------------|
+|----|----|----|----|
 | *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
 | *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
 
