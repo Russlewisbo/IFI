@@ -30,7 +30,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
 
-## Learning Objectives {.smaller}
+## Learning Objectives
 
 <br>
 
@@ -54,9 +54,7 @@ Welcome to this comprehensive review of invasive fungal infections. Over the nex
 ::: {.column width="50%"}
 **Global Impact of Fungal Disease**
 
--   
-
-    > 1 million deaths annually from invasive fungal infections
+-   1 million deaths annually from invasive fungal infections
 
 -   Equivalent to tuberculosis mortality
 
@@ -66,15 +64,15 @@ Welcome to this comprehensive review of invasive fungal infections. Over the nex
 :::
 
 ::: {.column width="50%"}
-<!-- [Image: fungal-burden-world-map.png] -->
-
-*Global burden concentrated in resource-limited settings*
+![](images/fungal_deaths_map.png){fig-align="center"}
 :::
 :::::
 
 ::: notes
 Fungi are often called the "hidden killers" because their impact on global health is dramatically underrecognized. Unlike bacterial infections where we have robust surveillance, fungal infections often go undiagnosed, particularly in low-resource settings. The true burden is likely 2-3 times higher than these estimates.
 :::
+
+## Types of fungal diseases
 
 <br>
 
@@ -90,6 +88,10 @@ Fungi are often called the "hidden killers" because their impact on global healt
 ::: notes
 It's important to understand where invasive fungal infections fit within the broader spectrum. Today we'll focus on the opportunistic pathogens - those that cause disease primarily in immunocompromised hosts. However, remember that some fungi like Cryptococcus can cause disease in both immunocompromised and immunocompetent individuals.
 :::
+
+## Mycotoxicosis
+
+![](images/img-014.jpg)
 
 ## Superfical mycoses
 
@@ -110,6 +112,46 @@ It's important to understand where invasive fungal infections fit within the bro
 ## Yeast vs. molds
 
 ![](images/img-048.jpg){fig-align="center"}
+
+## Primary (endemic) vs. opportunistic invasive mycoses
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Primary infections**
+
+-   Afflict patients even without underlying immunocompromise; but infections are more severe in setting of T-cell mediated immunosuppression (e.g., AIDS)
+
+-   "Endemic fungal pathogens"- Histoplasmosis, Balstomycosis, Coccidioidomycosis
+
+    -   Molds in the environment- yeast at 37°C
+
+-   Endemic areas changing with global warming
+:::
+
+::: {.column width="50%"}
+**Opportunistic fungal pathogens**
+
+-   Cause disease in the setting of deficient host immune responses or when introduced into sterile sites of the body
+
+-   Frequently disseminate to internal organs and the central nervous system
+
+-   Associated with high mortality if not diagnosed and treated early
+:::
+:::::
+
+## Most fungi are not adapted to 37°C
+
+Estimated fungal species: 3-4 million; <br>Known human pathogenic species: \~300–600 species
+
+![](images/Screenshot 2026-02-11 at 18.28.59.png){fig-align="center"}
+
+## Will this change with global warming?
+
+<center>Ophiocordyceps unilaterali: "Zombie-ant fungus"</center>
+
+![](images/Screenshot 2026-02-11 at 18.30.40.png)
 
 ## WHO Fungal Priority Pathogens List (2022)
 
@@ -159,7 +201,7 @@ The timeline of antifungal development shows periods of innovation followed by g
 
 ## Antifungal Targets
 
-![](images/img-059.jpg){fig-align="center"}
+![](images/Sites%20of%20Action%20of%20Antifungals.png){fig-align="center"}
 
 ## Antifungal targets
 
@@ -190,6 +232,10 @@ Unlike bacteria, fungi are eukaryotes like us. This limits the number of selecti
 
 ## Antifungal Spectrum of Activity
 
+<br>
+
+<br>
+
 | Agent          | *Candida* | *Aspergillus* | *Crypto* | Mucorales |
 |----------------|-----------|---------------|----------|-----------|
 | Fluconazole    | ++        | \-            | ++       | \-        |
@@ -204,6 +250,10 @@ This table is critical for clinical decision-making. Key points: Fluconazole has
 :::
 
 ## Tissue Distribution Matters!
+
+<br>
+
+<br>
 
 | Drug           | CSF   | Eye   | Urine | Lung |
 |----------------|-------|-------|-------|------|
@@ -223,9 +273,31 @@ This table is critical for clinical decision-making. Key points: Fluconazole has
 Tissue penetration is a major factor in drug selection. The most important clinical limitation is echinocandins: they don't get into CSF, eye, or urine. I've seen patients with candiduria treated with caspofungin - this will fail. Fluconazole remains our best drug for urinary candidiasis. For CNS Aspergillosis, voriconazole is preferred over echinocandins.
 :::
 
-# Part 2: Invasive Candidiasis {background-color="#8B0000"}
+# Part 2: Invasive Candidiasis {background-color="#9B0014"}
+
+## A brave surgical resident
+
+![](images/img-069.jpg)
+
+::: aside
+[@krause1969]
+:::
+
+## A brace surgical resident!
+
+![](images/img-072.jpg)
+
+## Cont.
+
+![](images/img-078.jpg)
+
+## We repeat this experiment daily in ICUs
+
+![](images/img-080.jpg){fig-align="center"}
 
 ## Invasive Candidiasis: Overview
+
+<br> <br>
 
 ::: incremental
 -   **Most common** invasive fungal infection in hospitalized patients
@@ -239,6 +311,8 @@ Candidemia and invasive candidiasis are daily challenges in ICUs and oncology un
 :::
 
 ## Changing Epidemiology of Candida Species
+
+<br> <br>
 
 :::::: columns
 ::: {.column width="60%"}
@@ -254,7 +328,7 @@ Candidemia and invasive candidiasis are daily challenges in ICUs and oncology un
 
 :::: {.column width="40%"}
 ::: callout-note
-Azole exposure drives shift toward non-*albicans* species
+Azole exposure drives shift toward non-*albicans* species- but empidemiology vareies by geographical local and patient population
 :::
 ::::
 ::::::
@@ -264,6 +338,8 @@ The epidemiology continues to evolve. Increased azole use, particularly fluconaz
 :::
 
 ## Risk Factors for Invasive Candidiasis
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -291,17 +367,20 @@ The epidemiology continues to evolve. Increased azole use, particularly fluconaz
 When you see these risk factors cluster, your suspicion for candidemia should increase. The "Candida Score" and other prediction tools incorporate these factors. However, no tool replaces clinical judgment. Many patients with multiple risk factors will never develop candidemia, while some with fewer risk factors will.
 :::
 
+## Continuum of invasive candidiasis
+
+![](images/continuum.png)
+
+::: aside
+[@pappas2018]
+:::
+
 ## Pathogenesis of Invasive Candidiasis
 
-::: r-stack
-```{mermaid}
-flowchart LR
-    A[Colonization] --> B[Barrier Breach]
-    B --> C[Local Invasion]
-    C --> D[Bloodstream]
-    D --> E[Dissemination]
-    E --> F[End-Organ Disease]
-```
+![](images/pathogenesis.png){fig-align="center"}
+
+::: aside
+[@pappas2018]
 :::
 
 ::: incremental
@@ -342,13 +421,15 @@ Understanding pathogenesis helps us target prevention. Candida needs a portal of
 Candidemia is often clinically indistinguishable from bacteremia. The lack of localizing signs early on makes diagnosis challenging. Hepatosplenic candidiasis typically presents after neutrophil recovery with persistent fever and elevated alkaline phosphatase. Endophthalmitis is why we mandate dilated eye exams for all candidemia patients.
 :::
 
-## The "Missing 50%"
+## What cultures miss in invasive candidiasis {.smaller}
 
-::: callout-important
-## Diagnostic Challenge
+<center>
 
-Blood cultures detect only \~50% of invasive candidiasis cases
-:::
+<iframe src="images/blood_cultures_venn.html" width="550" height="480" style="border:none; background:white;">
+
+</iframe>
+
+</center>
 
 ::: incremental
 -   Sensitivity of blood cultures: 21-71%
@@ -362,6 +443,8 @@ This is one of the most important concepts in fungal diagnostics. We miss half o
 :::
 
 ## Non-Culture Diagnostics
+
+<br> <br>
 
 | Test        | Sensitivity | Specificity | Turnaround |
 |-------------|-------------|-------------|------------|
@@ -381,16 +464,31 @@ Beta-D-glucan is a pan-fungal marker - it doesn't tell you which fungus. False p
 
 ## Treatment Algorithm for Candidemia
 
-```{mermaid}
-flowchart TD
-    A[Candidemia] --> B{Hemodynamic Status}
-    B -->|Unstable| C[Echinocandin]
-    B -->|Stable| D{Prior Azole Exposure?}
-    D -->|Yes| C
-    D -->|No| E[Fluconazole Option]
-    C --> F[Species ID + Susceptibility]
-    E --> F
-    F --> G[De-escalation if appropriate]
+<br>
+
+```{dot}
+digraph candidemia {
+  graph [rankdir=TB, bgcolor=transparent, fontname="Helvetica", nodesep=0.5, ranksep=0.6]
+  node [shape=box, style="rounded,filled", fillcolor="#f0f4f8", fontname="Helvetica", fontsize=12, color="#333333", penwidth=1.5]
+  edge [fontname="Helvetica", fontsize=10, color="#555555", arrowsize=0.8]
+
+  A [label="Candidemia", fillcolor="#9B0014", fontcolor=white, penwidth=0]
+  B [label="Hemodynamic\nStatus", shape=diamond, fillcolor="#fff3cd", height=1]
+  C [label="Echinocandin", fillcolor="#d4edda"]
+  D [label="Prior Azole\nExposure?", shape=diamond, fillcolor="#fff3cd", height=1]
+  E [label="Echinocandin\n or fluconazole", fillcolor="#d4edda"]
+  F [label="Species ID +\nSusceptibility", fillcolor="#cce5ff"]
+  G [label="De-escalation\nif appropriate", fillcolor="#cce5ff"]
+
+  A -> B
+  B -> C [label="Unstable", fontcolor="#b30000", color="#b30000"]
+  B -> D [label="Stable"]
+  D -> C [label="Yes"]
+  D -> E [label="No"]
+  C -> F
+  E -> F
+  F -> G
+}
 ```
 
 ::: notes
@@ -405,7 +503,7 @@ The algorithm is straightforward: if the patient is unstable or has had prior az
 
 -   Associated with improved outcomes
 -   Reduces mortality by 40-50%
--   Should be performed when feasible
+-   Should be performed whenever feasible
 -   Controversial only if:
     -   No alternative access
     -   CVC tunneled/implanted
@@ -414,7 +512,7 @@ The algorithm is straightforward: if the patient is unstable or has had prior az
 
 :::: {.column width="40%"}
 ::: callout-warning
-**Delay in catheter removal = increased mortality**
+<br> **Delay in catheter removal =** <br> increased mortality
 :::
 ::::
 ::::::
@@ -424,6 +522,8 @@ Source control is often more important than the antifungal choice. Studies consi
 :::
 
 ## Duration of Therapy
+
+<br> <br>
 
 ::: incremental
 -   **Uncomplicated candidemia**:
@@ -441,17 +541,17 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 
 ## Antifungal Susceptibility Testing
 
+<br> <br>
+
 | Species           | Fluconazole     | Echinocandins | Clinical Note               |
-|-----------------|-----------------|-----------------|----------------------|
+|------------------|------------------|------------------|--------------------|
 | *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
 | *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
 | *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
 | *C. parapsilosis* | S ≤2            | Higher MICs   | Fluconazole often preferred |
 | *C. auris*        | Often R         | Variable      | Test everything             |
 
-::: notes
-Species identification drives empiric therapy, but susceptibility testing is essential. C. glabrata has increased resistance to both azoles and echinocandins - you need to test. C. krusei is inherently fluconazole-resistant. C. parapsilosis has higher echinocandin MICs, so fluconazole may be preferred. C. auris requires individual testing - resistance patterns vary by clade and geography.
-:::
+<br> Species identification usually drives empiric therapy ::: notes Species identification drives empiric therapy, but susceptibility testing is essential. C. glabrata has increased resistance to both azoles and echinocandins - you need to test. C. krusei is inherently fluconazole-resistant. C. parapsilosis has higher echinocandin MICs, so fluconazole may be preferred. C. auris requires individual testing - resistance patterns vary by clade and geography. :::
 
 ## *Candida auris*: Emerging Threat
 
@@ -474,7 +574,7 @@ If C. auris suspected → Contact infection control immediately
 C. auris is a game-changer in medical mycology. Unlike other Candida, it colonizes skin and persists in the environment, enabling horizontal transmission. It's resistant to multiple antifungal classes. MALDI-TOF or molecular methods are needed for accurate identification. Infection control measures are critical.
 :::
 
-# Part 3: Cryptococcosis {background-color="#8B0000"}
+# <br> <br> <br> <br> Part 3: Cryptococcosis {background-color="#8B0000"}
 
 ## Cryptococcosis: Global Impact
 
@@ -500,7 +600,7 @@ Cryptococcosis remains one of the leading causes of death in people living with 
 ## *Cryptococcus* Species
 
 | Species | Primary Host | Geography | Environment |
-|-----------------|-------------------|--------------------|-----------------|
+|------------------|------------------|-------------------|------------------|
 | *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
 | *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
 
