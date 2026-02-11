@@ -19,7 +19,8 @@ bibliography: references.bib
 lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
-# Invasive fungal dsieases{background-color="#9B0014"}
+
+# Invasive Fungal Diseases {background-color="#9B0014"}
 
 <br> <br>
 
@@ -29,9 +30,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
 
-
-
 ## Learning Objectives {.smaller}
+
+<br>
 
 ::: incremental
 1.  Describe the epidemiology and risk factors for invasive candidiasis, cryptococcosis, aspergillosis, and mucormycosis
@@ -45,7 +46,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 Welcome to this comprehensive review of invasive fungal infections. Over the next 90-120 minutes, we'll cover the major opportunistic fungal pathogens and their management. This is intended for advanced pharmacy and medical trainees, infectious disease fellows, and practicing clinicians.
 :::
 
-# Part 1: Introduction & Antifungals {background-color="#8B0000"}
+# Part 1: Background & Antifungals {background-color="#8B0000"}
 
 ## The Hidden Killers
 
@@ -75,21 +76,14 @@ Welcome to this comprehensive review of invasive fungal infections. Over the nex
 Fungi are often called the "hidden killers" because their impact on global health is dramatically underrecognized. Unlike bacterial infections where we have robust surveillance, fungal infections often go undiagnosed, particularly in low-resource settings. The true burden is likely 2-3 times higher than these estimates.
 :::
 
-## Spectrum of Fungal Diseases
-
 <br>
 
-+--------------------------+------------------+----------------------------+
 | Type                     | Location         | Examples                   |
-+==========================+==================+============================+
+|--------------------------|------------------|----------------------------|
 | Superficial              | Epidermis, nails | Dermatophytosis            |
-+--------------------------+------------------+----------------------------+
 | Subcutaneous             | Dermis, tissue   | Sporotrichosis             |
-+--------------------------+------------------+----------------------------+
 | Systemic (primary)       | Deep organs      | Histoplasmosis             |
-+--------------------------+------------------+----------------------------+
 | Systemic (opportunistic) | Deep organs      | Candidiasis, aspergillosis |
-+--------------------------+------------------+----------------------------+
 
 ![](images/spectrum.png)
 
@@ -97,25 +91,25 @@ Fungi are often called the "hidden killers" because their impact on global healt
 It's important to understand where invasive fungal infections fit within the broader spectrum. Today we'll focus on the opportunistic pathogens - those that cause disease primarily in immunocompromised hosts. However, remember that some fungi like Cryptococcus can cause disease in both immunocompromised and immunocompetent individuals.
 :::
 
-## Types of fungal diseases
+## Superfical mycoses
 
-+------------------------------------------------------------+--------------------------------------+
-| **Superficial mycoses**                                    | ![](images/img-024.jpg){width="150"} |
-|                                                            |                                      |
-| Affect skin, hair, nail beds                               |                                      |
-+------------------------------------------------------------+--------------------------------------+
-| **Subcutaneous mycoses**                                   | ![](images/img-023.jpg){width="150"} |
-|                                                            |                                      |
-| Affect muscle and connective tissue immediately below skin |                                      |
-+------------------------------------------------------------+--------------------------------------+
-| **Systemic mycoses**                                       | ![](images/img-022.jpg){width="160"} |
-|                                                            |                                      |
-| Invade internal organs                                     |                                      |
-|                                                            |                                      |
-| Primary vs. opportunistic                                  |                                      |
-+------------------------------------------------------------+--------------------------------------+
+<br>
 
-## 
+![](images/img-024.jpg){fig-align="center" width="250"}
+
+## Subcutaneous mycoses
+
+<br>
+
+![](images/img-023.jpg){fig-align="center" width="250"}
+
+## Systemic mycoses
+
+![](images/img-022.jpg){fig-align="center" width="250"}
+
+## Yeast vs. molds
+
+![](images/img-048.jpg){fig-align="center"}
 
 ## WHO Fungal Priority Pathogens List (2022)
 
@@ -126,7 +120,7 @@ It's important to understand where invasive fungal infections fit within the bro
 **CRITICAL**
 
 -   *Cryptococcus neoformans*
--   *Candida auris*
+-   *Candidozyma auris* (*Candida auris*)
 -   *Aspergillus fumigatus*
 -   *Candida albicans*
 :::
@@ -157,11 +151,17 @@ In 2022, WHO released its first fungal priority pathogens list. This was a landm
 
 ## Evolution of Antifungal Development
 
+![](images/img-055.jpg){fig-align="center"}
+
 ::: notes
 The timeline of antifungal development shows periods of innovation followed by gaps. After amphotericin B, we waited over 20 years for the azoles. The early 2000s brought both expanded-spectrum triazoles and echinocandins. Recently, we've seen novel agents like ibrexafungerp (oral glucan synthase inhibitor) and rezafungin (long-acting echinocandin). New targets like Olorofim (DHODH inhibitor) are in development.
 :::
 
 ## Antifungal Targets
+
+![](images/img-059.jpg){fig-align="center"}
+
+## Antifungal targets
 
 ::::: columns
 ::: {.column width="50%"}
@@ -441,19 +441,13 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 
 ## Antifungal Susceptibility Testing
 
-+-------------------+-----------------+---------------+-----------------------------+
 | Species           | Fluconazole     | Echinocandins | Clinical Note               |
-+===================+=================+===============+=============================+
+|-----------------|-----------------|-----------------|----------------------|
 | *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
-+-------------------+-----------------+---------------+-----------------------------+
 | *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
-+-------------------+-----------------+---------------+-----------------------------+
 | *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
-+-------------------+-----------------+---------------+-----------------------------+
 | *C. parapsilosis* | S ≤2            | Higher MICs   | Fluconazole often preferred |
-+-------------------+-----------------+---------------+-----------------------------+
 | *C. auris*        | Often R         | Variable      | Test everything             |
-+-------------------+-----------------+---------------+-----------------------------+
 
 ::: notes
 Species identification drives empiric therapy, but susceptibility testing is essential. C. glabrata has increased resistance to both azoles and echinocandins - you need to test. C. krusei is inherently fluconazole-resistant. C. parapsilosis has higher echinocandin MICs, so fluconazole may be preferred. C. auris requires individual testing - resistance patterns vary by clade and geography.
@@ -505,13 +499,10 @@ Cryptococcosis remains one of the leading causes of death in people living with 
 
 ## *Cryptococcus* Species
 
-+-----------------+-------------------------------+--------------------------------+----------------------+
-| Species         | Primary Host                  | Geography                      | Environment          |
-+=================+===============================+================================+======================+
-| *C. neoformans* | Immunocompromised             | Worldwide                      | Soil, bird droppings |
-+-----------------+-------------------------------+--------------------------------+----------------------+
-| *C. gattii*     | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees     |
-+-----------------+-------------------------------+--------------------------------+----------------------+
+| Species | Primary Host | Geography | Environment |
+|-----------------|-------------------|--------------------|-----------------|
+| *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
+| *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
 
 :::: fragment
 ::: callout-note
