@@ -733,7 +733,7 @@ Cryptococcal meningitis has a more insidious presentation than bacterial meningi
 
 ## Cryptococcal skin lesions
 
-![](images/cryptococcal skin lesions.png){fig-align="center"}
+![](images/cryptococcal%20skin%20lesions.png){fig-align="center"}
 
 ::: aside
 Papulonodular umbilicated lesions on the neck and upper trunk-mimic molluscum contagiosum.
@@ -835,31 +835,32 @@ The CSF profile looks like a lymphocytic meningitis. Note that in severely immun
 The three-phase approach is critical. Induction focuses on rapid fungicidal activity. Consolidation reduces the fungal burden further. Maintenance prevents relapse until immune reconstitution. Premature discontinuation of maintenance is a common cause of relapse. In transplant recipients, maintenance may be needed indefinitely.
 :::
 
-
 ## The AMBITION Trial
 
-::: callout-note
-## Landmark Study (NEJM 2022)
+::::: columns
+::: {.column width="50%"}
+-   Induction therapy: Single dose L-AMB 10 mg/kg *plus*
 
-Single high-dose liposomal amphotericin B non-inferior to standard 7-day amphotericin B
-:::
-
-**Regimen:**
-
--   **Induction therapy:** Single dose L-AMB 10 mg/kg *plus*
     -   Flucytosine 100 mg/kg/day × 14 days
+
     -   Fluconazole 1200 mg/day × 14 days
 
-**Results:**
+-   Results:
 
--   10-week mortality: 24.8% vs 28.7%
--   Fewer adverse events
+    -   10-week mortality: 24.8% vs 28.7%
+
+    -   Fewer adverse events
+
 -   Simplified treatment
-
-::: notes
-The AMBITION trial is transforming how we treat cryptococcal meningitis, especially in Africa. A single 10 mg/kg dose of liposomal amphotericin B achieves sufficient fungicidal activity while dramatically simplifying logistics. This regimen reduces the need for hospitalization and IV access monitoring. It's now the WHO-recommended regimen.
 :::
 
+::: {.column width="50%"}
+:::
+:::::
+
+::: aside
+[@jarvis2022]
+:::
 
 ## Prognosis Factors
 
