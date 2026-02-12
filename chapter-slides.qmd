@@ -381,9 +381,9 @@ When you see these risk factors cluster, your suspicion for candidemia should in
 
 ## Pathogenesis of Invasive Candidiasis
 
-![](images/pathogenesis.png){fig-align="center"}
-
 ::: aside
+![](images/pathogenesis_1.png)
+
 [@pappas2018]
 :::
 
@@ -424,6 +424,28 @@ Understanding pathogenesis helps us target prevention. Candida needs a portal of
 ::: notes
 Candidemia is often clinically indistinguishable from bacteremia. The lack of localizing signs early on makes diagnosis challenging. Hepatosplenic candidiasis typically presents after neutrophil recovery with persistent fever and elevated alkaline phosphatase. Endophthalmitis is why we mandate dilated eye exams for all candidemia patients.
 :::
+
+## Candida endophthalmitis
+
+:::: columns
+::: {.column width="50%"}
+-   Chorioretinitis, Endophthalmitis- sight threatening if not recognized early
+
+-   Echinocandins do not penetrate vitreous humor- may require intravitreal therapy
+
+-   Suggests severe-disseminated disease- i.e. check for
+
+    -   Endocarditis (uncommon but also consider in patients with prosthetic valves, injection drug users, patients with persistently positive cultures)
+:::
+
+![](images/fundescopic.png){fig-align="center" width="428"}
+::::
+
+## Hepatosplenic candidiasis
+
+![](images/hepatosplenic.png){fig-align="center"}
+
+increasing alkaline phosphatase, fever as neutrophils recover
 
 ## What cultures miss in invasive candidiasis {.smaller}
 
@@ -548,7 +570,7 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 <br> <br>
 
 | Species           | Fluconazole     | Echinocandins | Clinical Note               |
-|-------------------|-----------------|---------------|-----------------------------|
+|------------------|------------------|------------------|-------------------|
 | *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
 | *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
 | *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
@@ -580,7 +602,11 @@ C. auris is a game-changer in medical mycology. Unlike other Candida, it coloniz
 
 # <br> <br> <br> <br> Part 3: Cryptococcosis {background-color="#8B0000"}
 
+![](images/indiaink.png){fig-align="center"}
+
 ## Cryptococcosis: Global Impact
+
+<br>
 
 ::::: columns
 ::: {.column width="60%"}
@@ -591,7 +617,7 @@ C. auris is a game-changer in medical mycology. Unlike other Candida, it coloniz
 :::
 
 ::: {.column width="40%"}
-<!-- [Image: crypto-global-burden.png] -->
+![](images/crypto_map.png)
 
 *Sub-Saharan Africa bears the greatest burden*
 :::
@@ -601,10 +627,28 @@ C. auris is a game-changer in medical mycology. Unlike other Candida, it coloniz
 Cryptococcosis remains one of the leading causes of death in people living with HIV, particularly in resource-limited settings. Despite the availability of ART, many patients present late with advanced immunosuppression. In Africa, cryptococcal meningitis kills more people than tuberculosis in HIV-infected individuals.
 :::
 
+## Epidemiology
+
+<br> <br>
+
+-   Usually associated with immunocompromised conditions
+
+-   \> 90% of cases associated with advanced HIV (CD4 \<100 cells/μL, transplantation, long-term corticosteroids, cirrhosis)
+
+-   In western countries, HIV-associated cases compromise a minority of cases; HIV the dominant cause in resource-poor settings
+
+    -   Sub-Saharan Africa ○ South and Southeast Asia
+
+    -   Mortality rates can exceed 50% in low-resource settings
+
+    -   Co-infections are common in resource-limited settings (25% tuberculosis)
+
+    -   Incidence has dropped with widespread availability of ART in Western countries
+
 ## *Cryptococcus* Species
 
 | Species | Primary Host | Geography | Environment |
-|----|----|----|----|
+|------------------|------------------|-------------------|------------------|
 | *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
 | *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
 
@@ -620,6 +664,22 @@ C. neoformans is the main pathogen in HIV/AIDS and transplant recipients. C. gat
 
 ## Pathogenesis
 
+![](images/pathogenesis.png){fig-align="center"}
+
+::: aside
+[@tugume2023]
+:::
+
+## Immune response to cryptococcosis
+
+![](images/cryptocococcosis.png){fig-align="center"}
+
+::: aside
+[@elsegeiny2018]
+:::
+
+## Pathogenesis
+
 ::::: columns
 ::: {.column width="60%"}
 **Virulence Factors:**
@@ -631,7 +691,7 @@ C. neoformans is the main pathogen in HIV/AIDS and transplant recipients. C. gat
 :::
 
 ::: {.column width="40%"}
-<!-- [Image: crypto-india-ink.png] -->
+![](images/indiaink.png){fig-align="center"}
 
 *India ink preparation showing encapsulated yeast*
 :::
@@ -651,7 +711,7 @@ The capsule is Cryptococcus's main weapon. It's so prominent that you can see it
 -   Fever, altered mental status
 -   Neck stiffness (less than bacterial)
 -   Cranial nerve palsies
--   **Elevated ICP is major killer**
+-   **Elevated ICP is major killer -**Always ask about vision - papilledema and visual loss indicate elevated ICP
 
 ### Pulmonary
 
@@ -669,6 +729,14 @@ The capsule is Cryptococcus's main weapon. It's so prominent that you can see it
 
 ::: notes
 Cryptococcal meningitis has a more insidious presentation than bacterial meningitis. The headache is often severe and persistent. Always ask about vision - papilledema and visual loss indicate elevated ICP. Skin lesions can mimic molluscum contagiosum. The prostate serves as a sanctuary site and may harbor persistent infection.
+:::
+
+## Cryptococcal skin lesions
+
+![](images/cryptococcal skin lesions.png){fig-align="center"}
+
+::: aside
+Papulonodular umbilicated lesions on the neck and upper trunk-mimic molluscum contagiosum.
 :::
 
 ## Elevated Intracranial Pressure
@@ -690,7 +758,7 @@ Opening pressure \>25 cm H₂O is associated with poor outcomes
 
 -   Daily LPs if OP \>25 cm H₂O
 -   Remove sufficient CSF to reduce by 50% or to \<20 cm H₂O
--   **Avoid corticosteroids** (worse outcomes)
+-   **Avoid corticosteroids** (worse outcomes-COAT trial)
 -   Mannitol, acetazolamide NOT effective
 :::
 
@@ -717,6 +785,12 @@ ICP management is arguably more important than antifungal choice in the first fe
 The lateral flow assay for CrAg is a game-changer, especially in resource-limited settings. It's rapid, cheap, and highly accurate. Serum CrAg becomes positive before symptoms develop - this is why we screen. CrAg titers also correlate with fungal burden and can help guide prognosis. Always do an LP if CrAg is positive to rule out CNS involvement.
 :::
 
+## Point of care testing-a game changer
+
+<br> <br>
+
+![](images/Crag.png){fig-align="center"}
+
 ## CSF Findings in Cryptococcal Meningitis
 
 | Parameter        | Typical Finding                   |
@@ -731,32 +805,6 @@ The lateral flow assay for CrAg is a game-changer, especially in resource-limite
 The CSF profile looks like a lymphocytic meningitis. Note that in severely immunocompromised patients, CSF WBC may be low due to poor inflammatory response. This actually portends a worse prognosis. Opening pressure must always be measured and documented.
 :::
 
-## The AMBITION Trial
-
-::: callout-note
-## Landmark Study (NEJM 2022)
-
-Single high-dose liposomal amphotericin B non-inferior to standard 7-day amphotericin B
-:::
-
-**Regimen:**
-
--   Single dose L-AMB 10 mg/kg
--   
-    -   Flucytosine 100 mg/kg/day × 14 days
--   
-    -   Fluconazole 1200 mg/day × 14 days
-
-**Results:**
-
--   10-week mortality: 24.8% vs 28.7%
--   Fewer adverse events
--   Simplified treatment
-
-::: notes
-The AMBITION trial is transforming how we treat cryptococcal meningitis, especially in Africa. A single 10 mg/kg dose of liposomal amphotericin B achieves sufficient fungicidal activity while dramatically simplifying logistics. This regimen reduces the need for hospitalization and IV access monitoring. It's now the WHO-recommended regimen.
-:::
-
 ## Treatment Phases
 
 ::: panel-tabset
@@ -765,15 +813,12 @@ The AMBITION trial is transforming how we treat cryptococcal meningitis, especia
 **Preferred (AMBITION):**
 
 -   L-AMB 10 mg/kg × 1 dose
--   
     -   Flucytosine × 14 days
--   
     -   Fluconazole 1200 mg/day × 14 days
 
 **Alternative:**
 
 -   AmB deoxycholate 1 mg/kg/day × 7 days
--   
     -   Flucytosine × 7 days
 
 ### Consolidation (8 weeks)
@@ -789,6 +834,32 @@ The AMBITION trial is transforming how we treat cryptococcal meningitis, especia
 ::: notes
 The three-phase approach is critical. Induction focuses on rapid fungicidal activity. Consolidation reduces the fungal burden further. Maintenance prevents relapse until immune reconstitution. Premature discontinuation of maintenance is a common cause of relapse. In transplant recipients, maintenance may be needed indefinitely.
 :::
+
+
+## The AMBITION Trial
+
+::: callout-note
+## Landmark Study (NEJM 2022)
+
+Single high-dose liposomal amphotericin B non-inferior to standard 7-day amphotericin B
+:::
+
+**Regimen:**
+
+-   **Induction therapy:** Single dose L-AMB 10 mg/kg *plus*
+    -   Flucytosine 100 mg/kg/day × 14 days
+    -   Fluconazole 1200 mg/day × 14 days
+
+**Results:**
+
+-   10-week mortality: 24.8% vs 28.7%
+-   Fewer adverse events
+-   Simplified treatment
+
+::: notes
+The AMBITION trial is transforming how we treat cryptococcal meningitis, especially in Africa. A single 10 mg/kg dose of liposomal amphotericin B achieves sufficient fungicidal activity while dramatically simplifying logistics. This regimen reduces the need for hospitalization and IV access monitoring. It's now the WHO-recommended regimen.
+:::
+
 
 ## Prognosis Factors
 
