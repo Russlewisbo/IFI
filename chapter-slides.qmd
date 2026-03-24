@@ -442,7 +442,7 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 ## Antifungal Susceptibility Testing
 
 | Species           | Fluconazole     | Echinocandins | Clinical Note               |
-|-----------------|-----------------|-----------------|----------------------|
+|-----------------|-----------------|-----------------|---------------------|
 | *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
 | *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
 | *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
@@ -500,7 +500,7 @@ Cryptococcosis remains one of the leading causes of death in people living with 
 ## *Cryptococcus* Species
 
 | Species | Primary Host | Geography | Environment |
-|-----------------|-------------------|--------------------|-----------------|
+|------------------|------------------|-------------------|------------------|
 | *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
 | *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
 
