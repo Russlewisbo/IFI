@@ -330,7 +330,7 @@ Candidemia and invasive candidiasis are daily challenges in ICUs and oncology un
 
 :::: {.column width="40%"}
 ::: callout-note
-Azole exposure drives shift toward non-*albicans* species- but empidemiology vareies by geographical local and patient population
+Azole exposure drives shift toward non-*albicans* species- but epidemiology varies by geographical local and patient population
 :::
 ::::
 ::::::
@@ -535,7 +535,7 @@ The algorithm is straightforward: if the patient is unstable or has had prior az
 
 ## Source Control is Critical
 
-:::::: columns
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: columns
 ::: {.column width="60%"}
 **Central Venous Catheter Removal**
 
@@ -553,7 +553,6 @@ The algorithm is straightforward: if the patient is unstable or has had prior az
 <br> **Delay in catheter removal =** <br> increased mortality
 :::
 ::::
-::::::
 
 ::: notes
 Source control is often more important than the antifungal choice. Studies consistently show that delayed or no catheter removal increases mortality. Of course, there are situations where removal is challenging - but we should strongly advocate for it in most cases. If you can't remove the catheter, document why.
@@ -581,17 +580,17 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 
 <br> <br>
 
-| Species           | Fluconazole     | Echinocandins | Clinical Note               |
-<<<<<<< HEAD
-|-----------------|-----------------|-----------------|---------------------|
-=======
-|------------------|------------------|------------------|-------------------|
->>>>>>> b6414d6a71aad965529ad8051daebb07966acc40
-| *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible         |
-| *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                 |
-| *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole       |
-| *C. parapsilosis* | S ≤2            | Higher MICs   | Fluconazole often preferred |
-| *C. auris*        | Often R         | Variable      | Test everything             |
+| Species \| Fluconazole \| Echinocandins \| Clinical Note \|
+
+# \|-----------------\|-----------------\|-----------------\|---------------------\|
+
+\|------------------\|------------------\|------------------\|-------------------\|
+
+| *C. albicans* \| S ≤2 \| S ≤0.25 \| Usually susceptible \|
+| *C. glabrata* \| SDD ≤32 \| S ≤0.12 \| Check both! \|
+| *C. krusei* \| **Intrinsic R** \| S \| Never use fluconazole \|
+| *C. parapsilosis* \| S ≤2 \| Higher MICs \| Fluconazole often preferred \|
+| *C. auris* \| Often R \| Variable \| Test everything \|
 
 <br> Species identification usually drives empiric therapy
 
@@ -921,13 +920,12 @@ The CSF fungal burden is perhaps the strongest predictor. This is why quantitati
 
 ![](images/img-182.jpg){fig-align="center" width="600"}
 
-
-
 ::: notes
 This U-shaped curve illustrates how host immunity determines the clinical presentation. On the left, severely immunocompromised patients get invasive disease. In the middle, patients with structural lung disease get aspergillomas. On the right, those with immune hyperactivity develop allergic forms. Different immune states = different diseases from the same organism.
 :::
 
 ## *Aspergillus* Species
+
 <br> <br>
 
 | Species        | Frequency | Clinical Significance                  |
@@ -1740,3 +1738,4 @@ Drug interactions are among the most challenging aspects of azole management in 
 ::: notes
 This quick reference shows standard dosing. Remember hepatic adjustment for caspofungin and anidulafungin, renal adjustment for fluconazole. Voriconazole IV should be avoided in renal impairment due to cyclodextrin accumulation.
 :::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
