@@ -401,23 +401,16 @@ When you see these risk factors cluster, your suspicion for candidemia should in
 
 ## Pathogenesis of Invasive Candidiasis
 
-::: aside
-![](images/pathogenesis_1.png){width="800"}
+![](images/pathogenesis_1.png){fig-align="center" width="600"}
 
-[@pappas2018]
-:::
-
-::: incremental
--   *Candida* are commensals of GI tract, skin, mucosa
--   Invasion requires breakdown of defenses
+-   *Candida* are commensals of GI tract, skin, mucosa- Invasion requires breakdown of defenses
 -   **Biofilm formation** on devices complicates treatment
-:::
 
 ::: aside
-Understanding parthogenesis helps us target prevention. Candida needs a portal of entry: damaged gut mucosa from chemotherapy, breached skin from catheters, or compromised immunity. The biofilm-forming ability of Candida, especially C. parapsilosis, is why catheter removal is so important.
+Understanding parthogenesis helps us target prevention. Candida needs a portal of entry: damaged gut mucosa from chemotherapy, breached skin from catheters, or compromised immunity. The biofilm-forming ability of Candida, especially C. parapsilosis, is why catheter removal is so important.[@pappas2018]
 :::
 
-## Clinical presentations {.smaller}
+## Clinical presentations
 
 <br> <br>
 
@@ -455,9 +448,11 @@ Candidemia is often clinically indistinguishable from bacteremia. The lack of lo
 
 ## Candida endophthalmitis
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
--   Chorioretinitis, Endophthalmitis- sight threatening if not recognized early
+-   Chorioretinitis, endophthalmitis- sight threatening if not recognized early
 
 -   Echinocandins do not penetrate vitreous humor- may require intravitreal therapy
 
@@ -494,11 +489,11 @@ Increasing alkaline phosphatase, fever as neutrophils recover
 
 ## Histopathology
 
-+----------------------------------+---------------------------------+
-| ![](images/Candida_PAS.png)      | ![](images/Candida_GMS.png)     |
-|                                  |                                 |
-| PAS stain                        | GMS stain                       |
-+----------------------------------+---------------------------------+
++-----------------------------+-----------------------------+
+| ![](images/Candida_PAS.png) | ![](images/Candida_GMS.png) |
+|                             |                             |
+| PAS stain                   | GMS stain                   |
++-----------------------------+-----------------------------+
 
 ## Non-culture diagnostics
 
@@ -924,7 +919,7 @@ The three-phase approach is critical. Induction focuses on rapid fungicidal acti
 [@jarvis2022]
 :::
 
-## Cryptococcal meningioencephalitis: <br>Prognostic factors
+## Cryptococcal meningoencephalitis: <br>Prognostic factors
 
 <br>
 
@@ -1004,6 +999,8 @@ We all breathe in Aspergillus spores constantly. The difference between health a
 
 ## Risk factors for invasive aspergillosis
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
 **Classic High-Risk:**
@@ -1077,19 +1074,25 @@ Early in infection, the disease is confined to airways. This is actually a bette
 This timeline is important for interpreting CT findings. The halo sign appears early when hemorrhage surrounds an infarcted nodule. As disease progresses, the halo disappears and consolidation becomes dense. The air-crescent sign is actually a sign of recovery - it appears when neutrophils return and cavitation begins. The timing of signs depends on degree of immunosuppression and neutropenia- i.e. non-neutropenic patients may have longer periods of airway invasive disease
 :::
 
-## CT Findings: Halo Sign
+## CT findings: Halo sign
 
-![](images/halo.png){fig-align="center" width="800"}
+![](images/halo.png){fig-align="center" width="400"}
 
 ::: callout-tip
-## Clinical Pearl
+## Clinical pearl
 
 The halo sign (ground-glass surrounding a dense nodule) is relatively specific for angioinvasive mold infection in the first week in neutropenic patients
 :::
 
+o
+
 ::: aside
 The halo represents hemorrhage surrounding an infarcted, fungal-invaded nodule. It's most useful in the first 5-7 days - after that, it often disappears. While classic for aspergillosis, it can occur with other angioinvasive infections like mucormycosis. Clinical context is essential.
 :::
+
+## Spectrum of infections with dissemination
+
+![](images/aspergillus_manifest.png){fig-align="center" width="800"}
 
 ## Disease patterns depend on immune status
 
@@ -1150,11 +1153,11 @@ Galactomannan is a polysaccharide from the Aspergillus cell wall. It performs be
 
 ## Asperguillus histopathology
 
-+---------------------------------+----------------------------------+
-| ![](images/aspergillus_gms.png) | ![](images/calcoflour.png)       |
-|                                 |                                  |
-| GMS in tissue staining          | Calcoflour in BAL washing        |
-+---------------------------------+----------------------------------+
++---------------------------------+----------------------------+
+| ![](images/aspergillus_gms.png) | ![](images/calcoflour.png) |
+|                                 |                            |
+| GMS in tissue staining          | Calcoflour in BAL washing  |
++---------------------------------+----------------------------+
 
 ## Diagnosis summary
 
@@ -1220,29 +1223,19 @@ Breakthrough on posaconazole prophylaxis raises concerns for resistance or inade
 
 ## Triazole resistance: Emerging threat
 
-::::: columns
-::: {.column width="50%"}
-![](images/vori_resistance.png)
-:::
+![](images/vori_resistance.png){width="442"}
 
-::: {.column width="50%"}
 -   TR34/L98H, TR46/Y121F/T289A mutations
 -   Environmental origin (agricultural fungicides)
 -   Prevalence varies geographically
 -   Associated with treatment failure
 -   Consider resistance testing in high-risk areas
-:::
-:::::
 
-:::: fragment
 ::: callout-important
-Azole-resistant Aspergillus is a growing concern. The main mechanisms are cyp51A mutations that also confer resistance to agricultural triazole fungicides. This environmental selection pressure is driving resistance. Netherlands and UK have highest rates in Europe. Testing is not routine but should be considered in refractory cases.
+Azole-resistant *Aspergillus* is a growing concern. The main mechanisms are cyp51A mutations that also confer resistance to agricultural triazole fungicides. This environmental selection pressure is driving resistance. Netherlands and UK have highest rates in Europe. Testing is not routine but should be considered in refractory cases.
 :::
-::::
 
-
-
-## Duration and Prognosis
+## Treatment duration and prognosis
 
 **Duration:**
 
@@ -1259,11 +1252,47 @@ Azole-resistant Aspergillus is a growing concern. The main mechanisms are cyp51A
 -   Site of infection
 -   Triazole resistance
 
-::: notes
+::: aside
 Unlike candidemia where we have a set duration, aspergillosis treatment is individualized. Lesions should be followed with serial imaging. Treatment usually continues through subsequent chemotherapy cycles to prevent relapse. Secondary prophylaxis with a triazole is often recommended if the patient will undergo further immunosuppression.
 :::
 
-# Part 5: Mucormycosis {background-color="#8B0000"}
+# Part 5: Fusariosis {background-color="#8B0000"}
+
+## Breakthrough Fusarium infection during neutropenia
+
+![](images/Fusarium.png){fig-align="center"}
+
+::: aside
+Fusarium infections infections may present in a similar fashion as aspergillosis but are unique in that they are **more frequently associated with positive blood cultures** with characteristic banana-shaped conidia and meta-static (necrotic) lesions- Ecthyma gangrenosum (differential diagnosis *Aspergillus* or *Pseudomonas* infections)
+:::
+
+## Fusarium meta-static skin, ocular and CNS lesions
+
+![](images/meta-static_fusarium.png){fig-align="center"}
+
+## General summary: Fusarium infections
+
+-   Most common scenario: Persistent neutropenia 
+
+-   Most common species:
+
+    -    *F. solani* complex (50%), *F. oxysporum*\* (14%), *F. verticillioides* (10-11%) 
+
+-   Macroconidia are classic (banana-shaped)
+
+-    PCR, rRNA in situ hybridization available, still investigational 
+
+-   **Positive blood cultures in 30-50% of cases**
+
+-   Can be recovered from urine in disseminated infection
+
+-   Drugs of choice: L-AMB +/- voriconazole
+
+::: aside
+The role of antifungal susceptibility testing is controversial- however it is clear that *F. solani* show much higher MICs to a wider range of antifungals. The investigational antifungal Fosmanogepix has shown promising activity in healthcare-associated Fusarium meningitis and may become the preferred therapy. However, outcomes are poor in neutropenic patients without neutrophils recovery.
+:::
+
+# Part 6: Mucormycosis {background-color="#8B0000"}
 
 ## Mucorales: The Scariest Fungi?
 
@@ -1369,14 +1398,7 @@ Rhizopus species cause the majority of cases. Species identification matters bec
 
 ## Pathogenesis
 
-```{mermaid}
-flowchart LR
-    A[Spore Inhalation] --> B[Macrophage Engulfment]
-    B -->|Impaired by steroids| C[Hyphal Growth]
-    C --> D[Iron Acquisition]
-    D -->|Promoted by DKA, acidosis| E[Angioinvasion]
-    E --> F[Thrombosis & Necrosis]
-```
+![](images/mucor_pathogenesis.png)
 
 :::: fragment
 ::: callout-important
