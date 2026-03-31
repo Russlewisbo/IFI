@@ -1270,7 +1270,27 @@ Fusarium infections infections may present in a similar fashion as aspergillosis
 
 ![](images/meta-static_fusarium.png){fig-align="center"}
 
+## Healthcare-associated outbreaks of Fusarium infection
+
+::::: columns
+::: {.column width="50%"}
+-   A multinational outbreak (185 exposed, 9 cases) of nosocomial fusarium meningitis occurred among immunocompetent patients who had undergone cosmetic surgery with epidural anesthesia in Mexico 
+
+-   The pathogen involved had a high predilection for the brain stem and vertebrobasilar arterial system and was associated with high mortality from vessel injury
+:::
+
+::: {.column width="50%"}
+![](images/fusarium_outbreak.png){fig-align="center"}
+:::
+:::::
+
+::: aside
+[@strong2024]
+:::
+
 ## General summary: Fusarium infections
+
+<br>
 
 -   Most common scenario: Persistent neutropenia 
 
@@ -1294,37 +1314,22 @@ The role of antifungal susceptibility testing is controversial- however it is cl
 
 # Part 6: Mucormycosis {background-color="#8B0000"}
 
-## Mucorales: The Scariest Fungi?
+## Mucorales: The most dreaded pathogen?
 
-:::::: columns
-::: {.column width="60%"}
-<!-- [Image: twitter-poll-scary.png] -->
+![](images/twitter.png){fig-align="center" width="600"}
 
-Twitter poll of ID specialists:
+<br>
 
--   Mucor spp./Mucormycosis: **44%**
--   *Staph aureus*: 24%
--   *Candida auris*: 18%
--   SARS-CoV-2: 14%
-:::
-
-:::: {.column width="40%"}
-::: callout-important
-**Why so scary?**
+**Why so dangerous?**
 
 -   Rapid progression
 -   High mortality (40-80%)
--   Requires disfiguring surgery
+-   Often requires disfiguring surgery
 -   Limited drug options
-:::
-::::
-::::::
-
-::: notes
-This informal poll captures how infectious disease specialists feel about mucormycosis. It's the fungal infection we dread most. Rapid tissue destruction, need for aggressive surgery, limited effective antifungals, and high mortality even with optimal treatment make this a formidable foe.
-:::
 
 ## Ecology of Mucorales
+
+![](images/mucor_ecology.png){fig-align="center" width="600"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1346,9 +1351,21 @@ This informal poll captures how infectious disease specialists feel about mucorm
 :::
 :::::
 
-::: notes
+::: aside
 Mucorales are ubiquitous environmental saprophytes. We've seen outbreaks linked to contaminated medical supplies, hospital construction, and even natural disasters. Their rapid growth is remarkable - you can see colony growth on agar plates within 24-48 hours, hence the "lid lifter" description.
 :::
+
+## Hospital outbreaks
+
+![](images/mucor_nosocomial.png){fig-align="center"}
+
+## Natural disasters, car accidents, combat-injuries
+
+![](images/natural_disaster.png){fig-align="center"}
+
+## COVID-19
+
+![](images/mucor_india.png){fig-align="center"}
 
 ## Risk Factors for Mucormycosis
 
@@ -1408,7 +1425,7 @@ Rhizopus species cause the majority of cases. Species identification matters bec
 :::
 ::::
 
-::: notes
+::: aside
 The pathogenesis explains why certain conditions predispose to mucormycosis. Acidosis releases iron from transferrin. Hyperglycemia impairs neutrophil function. Glucocorticoids impair macrophages. The angioinvasive nature explains the rapid tissue destruction - these organisms invade blood vessels, causing infarction.
 :::
 
@@ -1428,7 +1445,7 @@ The pathogenesis explains why certain conditions predispose to mucormycosis. Aci
 :::
 
 ::: {.column width="40%"}
-<!-- [Image: rhino-orbital-mucor.png] -->
+![](images/sinus_progression.png){fig-align="center" width="800"}
 
 *Rapid progression with nasal bridge necrosis*
 :::
@@ -1438,21 +1455,27 @@ The pathogenesis explains why certain conditions predispose to mucormycosis. Aci
 The classic presentation in diabetic patients. What starts as "sinusitis" can progress to death within days. The black eschar is a late sign - don't wait for it. Early signs include facial pain, numbness, nasal stuffiness. Any diabetic patient with periorbital swelling or facial swelling needs urgent evaluation. Time is tissue.
 :::
 
-## MRI: "Black Turbinate Sign"
+## Cavernous sinus invasion via the sphenoid sinus
 
-<!-- [Image: mri-black-turbinate.png] -->
+![](images/cavernous.png){fig-align="center"}
+
+::: aside
+Orbital apex syndrome: A condition that affects the nerves passing through the superior orbital fissure, potentially leading to vision loss, ophthalmoplegia (paralysis or weakness of the eye muscles), and ptosis (drooping of the upper eyelid).
+:::
+
+## MRI: "Black turbinate sign"
+
+![](images/black_turbinate.png){fig-align="center" width="800"}
 
 ::: callout-tip
-## Imaging Pearl
+## Imaging pearl
 
 Loss of enhancement of the turbinates on contrast MRI indicates devitalized tissue - highly suggestive of mucormycosis in the right clinical context
 :::
 
-::: notes
-The black turbinate sign on MRI reflects tissue infarction. This finding should prompt urgent ENT consultation and surgical exploration. CT can miss early disease - MRI is more sensitive for tissue invasion. Don't let normal CT give you false reassurance in a high-risk patient.
-:::
+## Pulmonary mucormycosis
 
-## Pulmonary Mucormycosis
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1465,9 +1488,9 @@ The black turbinate sign on MRI reflects tissue infarction. This finding should 
 :::
 
 ::: {.column width="50%"}
-<!-- [Image: ct-reverse-halo.png] -->
+![](images/reverse_hamo.png){fig-align="center"}
 
-*Reverse halo: ground-glass center with surrounding consolidation*
+*Reverse halo:* <br> *ground-glass center with surrounding consolidation*
 :::
 :::::
 
@@ -1475,7 +1498,15 @@ The black turbinate sign on MRI reflects tissue infarction. This finding should 
 Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse halo sign (opposite of the Aspergillus halo sign) is relatively specific. However, CT findings overlap significantly with aspergillosis. Clinical context, epidemiology, and ideally tissue diagnosis drive the distinction.
 :::
 
-## Diagnosis of Mucormycosis
+## Mucormycosis histopathology
+
+<br>
+
+![](images/mucor_histo.png){fig-align="center"}
+
+## Diagnosis of mucormycosis
+
+<br>
 
 ::: callout-warning
 ## Critical Point
@@ -1490,11 +1521,13 @@ Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse ha
 -   PCR/sequencing: Available in specialized centers
 -   MALDI-TOF: For isolate identification
 
-::: notes
+::: aside
 This is crucial - the biomarkers we use for Candida and Aspergillus don't work here. A negative BDG or GM does NOT exclude mucormycosis. You need tissue diagnosis. The hyphae look very different from Aspergillus - they're wide, ribbon-like, with few septa and right-angle branching. Culture is often negative despite tissue positivity.
 :::
 
-## Treatment Principles
+## Treatment principles
+
+<br> <br>
 
 ::: incremental
 1.  **Surgical debridement** - Essential, often repeated
@@ -1508,6 +1541,8 @@ All four elements are essential. Surgery is not optional - it's often the differ
 :::
 
 ## Antifungal Therapy
+
+<br> <br>
 
 **Initial:**
 
@@ -1527,13 +1562,13 @@ Echinocandins and voriconazole have NO activity against Mucorales
 :::
 ::::
 
-::: notes
+::: aside
 L-AMB is the backbone of therapy. We use high doses - 5 mg/kg routinely, up to 10 mg/kg for CNS disease. This is much higher than for aspergillosis or candidiasis. Posaconazole and isavuconazole are the only oral options with Mucorales activity. Remember: if you started voriconazole empirically thinking it was aspergillosis, you're not treating mucormycosis at all.
 :::
 
-## Surgical Management
+## Surgical management
 
-<!-- [Image: surgical-mucor-reconstruction.png] -->
+![](images/radical_surgery.png)
 
 :::::: columns
 ::: {.column width="60%"}
@@ -1550,7 +1585,7 @@ L-AMB is the backbone of therapy. We use high doses - 5 mg/kg routinely, up to 1
 ::::
 ::::::
 
-::: notes
+::: aside
 The surgical images are dramatic, but they represent survival. Patients who receive aggressive surgical debridement have much better outcomes. The disfigurement is real and challenging, but modern reconstructive techniques and prosthetics can achieve remarkable results. Early surgical involvement is critical.
 :::
 
