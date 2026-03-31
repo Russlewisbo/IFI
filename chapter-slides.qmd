@@ -14,7 +14,7 @@ format:
     incremental: false
     multiplex: false
     chalkboard: false
-    theme: [custom.scss, default]
+    theme: [custom.scss]
 bibliography: references.bib
 lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
