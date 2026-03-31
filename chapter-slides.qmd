@@ -253,21 +253,21 @@ Unlike bacteria, fungi are eukaryotes like us. This limits the number of selecti
 
 <br>
 
-+----------------+------------+---------------+----------------+------------+
-| Agent          | *Candida*  | *Aspergillus* | *Cryptococcus* | Mucorales  |
-+================+============+===============+================+============+
-| Fluconazole    | ++         | \-            | ++             | \-         |
-+----------------+------------+---------------+----------------+------------+
-| Voriconazole   | +++        | +++           | \+             | \-         |
-+----------------+------------+---------------+----------------+------------+
-| Posaconazole   | +++        | +++           | \+             | ++         |
-+----------------+------------+---------------+----------------+------------+
-| Isavuconazole  | +++        | +++           | \+             | ++         |
-+----------------+------------+---------------+----------------+------------+
-| Echinocandins  | +++        | ++            | \-             | \-         |
-+----------------+------------+---------------+----------------+------------+
-| Amphotericin B | +++        | ++            | +++            | +++        |
-+----------------+------------+---------------+----------------+------------+
++----------------+-------------+---------------+----------------+-------------+
+| Agent          | *Candida*   | *Aspergillus* | *Cryptococcus* | Mucorales   |
++================+=============+===============+================+=============+
+| Fluconazole    | ++          | \-            | ++             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Voriconazole   | +++         | +++           | \+             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Posaconazole   | +++         | +++           | \+             | ++          |
++----------------+-------------+---------------+----------------+-------------+
+| Isavuconazole  | +++         | +++           | \+             | ++          |
++----------------+-------------+---------------+----------------+-------------+
+| Echinocandins  | +++         | ++            | \-             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Amphotericin B | +++         | ++            | +++            | +++         |
++----------------+-------------+---------------+----------------+-------------+
 
 ::: notes
 This table is critical for clinical decision-making. Key points: Fluconazole has NO mold activity. Echinocandins don't work against Cryptococcus or Mucorales. Only amphotericin B, posaconazole, and isavuconazole cover Mucorales. This is why empiric therapy choices matter so much when we don't know the pathogen.
@@ -499,15 +499,15 @@ Increasing alkaline phosphatase, fever as neutrophils recover
 
 <br> <br>
 
-+-------------+-------------+-------------+-----------------------------------------------------+
-| Test        | Sensitivity | Specificity | Turnaround                                          |
-+=============+=============+=============+=====================================================+
-| β-D-glucan  | 75-80%      | 80%         | Same day                                            |
-+-------------+-------------+-------------+-----------------------------------------------------+
-| T2Candida   | 91%         | 99%         | 3-5 hours                                           |
-+-------------+-------------+-------------+-----------------------------------------------------+
-| Candida PCR | 85-95%      | 90-95%      | Variable- Test not well standardized or widely used |
-+-------------+-------------+-------------+-----------------------------------------------------+
++----------------+----------------+----------------+-----------------------------------------------------+
+| Test           | Sensitivity    | Specificity    | Turnaround                                          |
++================+================+================+=====================================================+
+| β-D-glucan     | 75-80%         | 80%            | Same day                                            |
++----------------+----------------+----------------+-----------------------------------------------------+
+| T2Candida      | 91%            | 99%            | 3-5 hours                                           |
++----------------+----------------+----------------+-----------------------------------------------------+
+| Candida PCR    | 85-95%         | 90-95%         | Variable- Test not well standardized or widely used |
++----------------+----------------+----------------+-----------------------------------------------------+
 
 ::: callout-tip
 -   Combining blood cultures + BDG increases sensitivity to \>90%
@@ -596,19 +596,19 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 
 <br> <br>
 
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
-| Species           | Fluconazole     | Echinocandins | Clinical Note                                                          |
-+===================+=================+===============+========================================================================+
-| *C. albicans*     | S ≤2            | S ≤0.25       | Usually susceptible                                                    |
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
-| *C. glabrata*     | SDD ≤32         | S ≤0.12       | Check both!                                                            |
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
-| *C. krusei*       | **Intrinsic R** | S             | Never use fluconazole                                                  |
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
-| *C. parapsilosis* | S ≤2            | Higher MICs   | Fluconazole often preferred, but resistance increasing in some centers |
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
-| *C. auris*        | Often R         | Variable      | Test everything                                                        |
-+-------------------+-----------------+---------------+------------------------------------------------------------------------+
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| Species           | Fluconazole     | Echinocandins  | Clinical Note                                                          |
++===================+=================+================+========================================================================+
+| *C. albicans*     | S ≤2            | S ≤0.25        | Usually susceptible                                                    |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. glabrata*     | SDD ≤32         | S ≤0.12        | Check both!                                                            |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. krusei*       | **Intrinsic R** | S              | Never use fluconazole                                                  |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. parapsilosis* | S ≤2            | Higher MICs    | Fluconazole often preferred, but resistance increasing in some centers |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. auris*        | Often R         | Variable       | Test everything                                                        |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
 
 <br> Species identification usually drives empiric therapy
 
@@ -1056,19 +1056,19 @@ Early in infection, the disease is confined to airways. This is actually a bette
 
 ![](images/CT%20evolution.png){fig-align="center"}
 
-+---------------+------------------------+----------------------------------------+
-| Day           | Pathology              | CT Finding                             |
-+===============+========================+========================================+
-| 0-3           | Airway invasion        | Bronchial thickening, <br> tree-in-bud |
-+---------------+------------------------+----------------------------------------+
-| 3-7           | Hyphal invasion        | Macronodule ± halo                     |
-+---------------+------------------------+----------------------------------------+
-| 5-7           | Hemorrhage, infarction | Dense consolidation                    |
-+---------------+------------------------+----------------------------------------+
-| 10-12         | Extensive necrosis     | Hypodense sign                         |
-+---------------+------------------------+----------------------------------------+
-| 15-18         | Neutrophil recovery    | Air-crescent sign                      |
-+---------------+------------------------+----------------------------------------+
++-------------+------------------------+----------------------------------------+
+| Day         | Pathology              | CT Finding                             |
++=============+========================+========================================+
+| 0-3         | Airway invasion        | Bronchial thickening, <br> tree-in-bud |
++-------------+------------------------+----------------------------------------+
+| 3-7         | Hyphal invasion        | Macronodule ± halo                     |
++-------------+------------------------+----------------------------------------+
+| 5-7         | Hemorrhage, infarction | Dense consolidation                    |
++-------------+------------------------+----------------------------------------+
+| 10-12       | Extensive necrosis     | Hypodense sign                         |
++-------------+------------------------+----------------------------------------+
+| 15-18       | Neutrophil recovery    | Air-crescent sign                      |
++-------------+------------------------+----------------------------------------+
 
 ::: aside
 This timeline is important for interpreting CT findings. The halo sign appears early when hemorrhage surrounds an infarcted nodule. As disease progresses, the halo disappears and consolidation becomes dense. The air-crescent sign is actually a sign of recovery - it appears when neutrophils return and cavitation begins. The timing of signs depends on degree of immunosuppression and neutropenia- i.e. non-neutropenic patients may have longer periods of airway invasive disease
@@ -1290,8 +1290,6 @@ Fusarium infections infections may present in a similar fashion as aspergillosis
 
 ## General summary: Fusarium infections
 
-<br>
-
 -   Most common scenario: Persistent neutropenia 
 
 -   Most common species:
@@ -1314,22 +1312,39 @@ The role of antifungal susceptibility testing is controversial- however it is cl
 
 # Part 6: Mucormycosis {background-color="#8B0000"}
 
-## Mucorales: The most dreaded pathogen?
+## Mucorales: The Scariest Fungi?
 
+:::::: columns
+::: {.column width="60%"}
 ![](images/twitter.png){fig-align="center" width="600"}
 
-<br>
+Twitter poll of ID specialists:
 
-**Why so dangerous?**
+-   Mucor spp./Mucormycosis: **44%**
+-   *Staph aureus*: 24%
+-   *Candida auris*: 18%
+-   SARS-CoV-2: 14%
+:::
+
+:::: {.column width="40%"}
+::: callout-important
+**Why so scary?**
 
 -   Rapid progression
 -   High mortality (40-80%)
--   Often requires disfiguring surgery
+-   Requires disfiguring surgery
 -   Limited drug options
+:::
+::::
+::::::
+
+::: notes
+This informal poll captures how infectious disease specialists feel about mucormycosis. It's the fungal infection we dread most. Rapid tissue destruction, need for aggressive surgery, limited effective antifungals, and high mortality even with optimal treatment make this a formidable foe.
+:::
 
 ## Ecology of Mucorales
 
-![](images/mucor_ecology.png){fig-align="center" width="600"}
+![](images/mucor_ecology.png){fig-align="center"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1351,21 +1366,9 @@ The role of antifungal susceptibility testing is controversial- however it is cl
 :::
 :::::
 
-::: aside
+::: notes
 Mucorales are ubiquitous environmental saprophytes. We've seen outbreaks linked to contaminated medical supplies, hospital construction, and even natural disasters. Their rapid growth is remarkable - you can see colony growth on agar plates within 24-48 hours, hence the "lid lifter" description.
 :::
-
-## Hospital outbreaks
-
-![](images/mucor_nosocomial.png){fig-align="center"}
-
-## Natural disasters, car accidents, combat-injuries
-
-![](images/natural_disaster.png){fig-align="center"}
-
-## COVID-19
-
-![](images/mucor_india.png){fig-align="center"}
 
 ## Risk Factors for Mucormycosis
 
@@ -1425,7 +1428,7 @@ Rhizopus species cause the majority of cases. Species identification matters bec
 :::
 ::::
 
-::: aside
+::: notes
 The pathogenesis explains why certain conditions predispose to mucormycosis. Acidosis releases iron from transferrin. Hyperglycemia impairs neutrophil function. Glucocorticoids impair macrophages. The angioinvasive nature explains the rapid tissue destruction - these organisms invade blood vessels, causing infarction.
 :::
 
@@ -1445,37 +1448,31 @@ The pathogenesis explains why certain conditions predispose to mucormycosis. Aci
 :::
 
 ::: {.column width="40%"}
-![](images/sinus_progression.png){fig-align="center" width="800"}
+![](images/sinus_progression.png){fig-align="center"}
 
 *Rapid progression with nasal bridge necrosis*
 :::
 :::::
 
 ::: notes
-The classic presentation in diabetic patients. What starts as "sinusitis" can progress to death within days. The black eschar is a late sign - don't wait for it. Early signs include facial pain, numbness, nasal stuffiness. Any diabetic patient with periorbital swelling or facial swelling needs urgent evaluation. Time is tissue.
+The classic presentation in diabetic patients. What starts as "sinusitis" can progress to death within days. The black eschar is a late sign - don't wait for it. Early signs include facial pain, numbness, nasal stuffines, hard palette lesions. Any diabetic patient with periorbital swelling or facial swelling needs urgent evaluation. Time is tissue.
 :::
 
-## Cavernous sinus invasion via the sphenoid sinus
+## MRI: "Black Turbinate Sign"
 
-![](images/cavernous.png){fig-align="center"}
-
-::: aside
-Orbital apex syndrome: A condition that affects the nerves passing through the superior orbital fissure, potentially leading to vision loss, ophthalmoplegia (paralysis or weakness of the eye muscles), and ptosis (drooping of the upper eyelid).
-:::
-
-## MRI: "Black turbinate sign"
-
-![](images/black_turbinate.png){fig-align="center" width="800"}
+![](images/black_turbinate.png){fig-align="center" width="600"}
 
 ::: callout-tip
-## Imaging pearl
+## Imaging Pearl
 
 Loss of enhancement of the turbinates on contrast MRI indicates devitalized tissue - highly suggestive of mucormycosis in the right clinical context
 :::
 
-## Pulmonary mucormycosis
+::: notes
+The black turbinate sign on MRI reflects tissue infarction. This finding should prompt urgent ENT consultation and surgical exploration. CT can miss early disease - MRI is more sensitive for tissue invasion. Don't let normal CT give you false reassurance in a high-risk patient.
+:::
 
-<br> <br>
+## Pulmonary Mucormycosis
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1488,9 +1485,9 @@ Loss of enhancement of the turbinates on contrast MRI indicates devitalized tiss
 :::
 
 ::: {.column width="50%"}
-![](images/reverse_hamo.png){fig-align="center"}
+![](images/reverse_hamo.png){fig-align="center" width="600"}
 
-*Reverse halo:* <br> *ground-glass center with surrounding consolidation*
+*Reverse halo: ground-glass center with surrounding consolidation*
 :::
 :::::
 
@@ -1498,15 +1495,7 @@ Loss of enhancement of the turbinates on contrast MRI indicates devitalized tiss
 Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse halo sign (opposite of the Aspergillus halo sign) is relatively specific. However, CT findings overlap significantly with aspergillosis. Clinical context, epidemiology, and ideally tissue diagnosis drive the distinction.
 :::
 
-## Mucormycosis histopathology
-
-<br>
-
-![](images/mucor_histo.png){fig-align="center"}
-
-## Diagnosis of mucormycosis
-
-<br>
+## Diagnosis of Mucormycosis
 
 ::: callout-warning
 ## Critical Point
@@ -1521,13 +1510,11 @@ Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse ha
 -   PCR/sequencing: Available in specialized centers
 -   MALDI-TOF: For isolate identification
 
-::: aside
+::: notes
 This is crucial - the biomarkers we use for Candida and Aspergillus don't work here. A negative BDG or GM does NOT exclude mucormycosis. You need tissue diagnosis. The hyphae look very different from Aspergillus - they're wide, ribbon-like, with few septa and right-angle branching. Culture is often negative despite tissue positivity.
 :::
 
-## Treatment principles
-
-<br> <br>
+## Treatment Principles
 
 ::: incremental
 1.  **Surgical debridement** - Essential, often repeated
@@ -1541,8 +1528,6 @@ All four elements are essential. Surgery is not optional - it's often the differ
 :::
 
 ## Antifungal Therapy
-
-<br> <br>
 
 **Initial:**
 
@@ -1562,13 +1547,13 @@ Echinocandins and voriconazole have NO activity against Mucorales
 :::
 ::::
 
-::: aside
+::: notes
 L-AMB is the backbone of therapy. We use high doses - 5 mg/kg routinely, up to 10 mg/kg for CNS disease. This is much higher than for aspergillosis or candidiasis. Posaconazole and isavuconazole are the only oral options with Mucorales activity. Remember: if you started voriconazole empirically thinking it was aspergillosis, you're not treating mucormycosis at all.
 :::
 
-## Surgical management
+## Surgical Management
 
-![](images/radical_surgery.png)
+![](images/radical_surgery.png){fig-align="center"}
 
 :::::: columns
 ::: {.column width="60%"}
@@ -1585,7 +1570,7 @@ L-AMB is the backbone of therapy. We use high doses - 5 mg/kg routinely, up to 1
 ::::
 ::::::
 
-::: aside
+::: notes
 The surgical images are dramatic, but they represent survival. Patients who receive aggressive surgical debridement have much better outcomes. The disfigurement is real and challenging, but modern reconstructive techniques and prosthetics can achieve remarkable results. Early surgical involvement is critical.
 :::
 
@@ -1593,7 +1578,7 @@ The surgical images are dramatic, but they represent survival. Patients who rece
 
 ## Amphotericin B: Nephrotoxicity Mechanism
 
-<!-- [Image: amb-nephron-toxicity.png] -->
+![](images/AMB_nephron.png){fig-align="center" width="600"}
 
 ::: incremental
 -   Afferent arteriole constriction → ↓ renal blood flow
@@ -1620,7 +1605,7 @@ Understanding the mechanism helps predict and manage toxicity. The vasoconstrict
 -   Reduced binding to tubular LDL receptors
 -   Less direct tubular damage
 
-::: notes
+::: aside
 The lipid formulations were developed specifically to reduce nephrotoxicity. They're more expensive but allow us to give higher doses with less toxicity. This is why L-AMB 10 mg/kg is feasible for mucormycosis but would be impossible with deoxycholate. The choice of formulation matters.
 :::
 
