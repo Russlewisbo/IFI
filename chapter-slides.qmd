@@ -1149,7 +1149,6 @@ This timeline is important for interpreting CT findings. The halo sign appears e
 The halo sign (ground-glass surrounding a dense nodule) is relatively specific for angioinvasive mold infection in the first week in neutropenic patients
 :::
 
-o
 
 ::: aside
 The halo represents hemorrhage surrounding an infarcted, fungal-invaded nodule. It's most useful in the first 5-7 days - after that, it often disappears. While classic for aspergillosis, it can occur with other angioinvasive infections like mucormycosis. Clinical context is essential.
