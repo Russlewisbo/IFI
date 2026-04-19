@@ -619,9 +619,7 @@ digraph candidemia {
 Meta-analysis and several clinical trials suggest a survival benefit of starting with echinocandins versus triazoles, but the clinical importance of "fungicidal" vs. "fungistatic" activity for invasive candidiasis is debated.
 :::
 
-::: aside
-The algorithm is straightforward: if the patient is unstable or has had prior azole exposure, start with an echinocandin. Fluconazole is an option for stable patients without recent azole exposure. Once you have species and susceptibility data, you can tailor therapy. De-escalation to fluconazole is appropriate for susceptible isolates in stable patients.
-:::
+
 
 ## Source control is critical
 
