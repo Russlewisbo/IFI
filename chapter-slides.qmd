@@ -28,7 +28,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <center>
 
-**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
+**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> <br>
 
 ![](fungal-images/DMM_newlogo.png){fig-align="center" width="350"}
 
@@ -127,7 +127,7 @@ It's important to understand where invasive fungal infections fit within the bro
 ::: {.column width="50%"}
 **Primary infections**
 
-- Can develop even without underlying immunocompromise; more severe in setting of T-cell mediated immunosuppression (e.g., AIDS)
+- Can develop even without underlying immunocompromise; more severe in setting of T-cell mediated immunosuppression <br> (e.g., AIDS)
 
 - "Endemic fungal pathogens"- Histoplasmosis, Blastomycosis, Coccidioidomycosis
 
@@ -526,7 +526,7 @@ Increasing alkaline phosphatase, fever as neutrophils recover
 
 <center>
 
-<iframe src="images/blood_cultures_venn.html" width="550" height="480" style="border:none; background:white;">
+<iframe src="fungal-images/blood_cultures_venn.html" width="550" height="480" style="border:none; background:white;">
 
 </iframe>
 
