@@ -36,7 +36,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 </center>
 
-## Learning Objectives
+## Learning objectives
 
 <br>
 
@@ -52,7 +52,7 @@ Welcome to this comprehensive review of invasive fungal infections. Over the nex
 
 # Part 1: Background & Antifungals {background-color="#8B0000"}
 
-## The Hidden Killers
+## The hidden killers
 
 <br>
 
@@ -78,7 +78,7 @@ Fungi are often called the "hidden killers" because their impact on global healt
 
 ## Mycotoxicosis
 
-![](fungal-images/img-014.jpg)
+![](fungal-images/img-014.jpg){width="800"}
 
 ## Mycoses-Invasive of living tissue by fungus
 
@@ -86,12 +86,17 @@ Fungi are often called the "hidden killers" because their impact on global healt
 
 <br>
 
++--------------------------+------------------+----------------------------+
 | Type                     | Location         | Examples                   |
-|--------------------------|------------------|----------------------------|
++==========================+==================+============================+
 | Superficial              | Epidermis, nails | Dermatophytosis            |
++--------------------------+------------------+----------------------------+
 | Subcutaneous             | Dermis, tissue   | Sporotrichosis             |
++--------------------------+------------------+----------------------------+
 | Systemic (primary)       | Deep organs      | Histoplasmosis             |
++--------------------------+------------------+----------------------------+
 | Systemic (opportunistic) | Deep organs      | Candidiasis, aspergillosis |
++--------------------------+------------------+----------------------------+
 
 ::: notes
 It's important to understand where invasive fungal infections fit within the broader spectrum. Today we'll focus on the opportunistic pathogens - those that cause disease primarily in immunocompromised hosts. However, remember that some fungi like Cryptococcus can cause disease in both immunocompromised and immunocompetent individuals.
@@ -127,9 +132,9 @@ It's important to understand where invasive fungal infections fit within the bro
 ::: {.column width="50%"}
 **Primary infections**
 
-- Can develop even without underlying immunocompromise; more severe in setting of T-cell mediated immunosuppression <br> (e.g., AIDS)
+- Can develop even without underlying immunocompromise; more severe <br>in setting of T-cell mediated immunosuppression <br> (e.g., AIDS)
 
-- "Endemic fungal pathogens"- Histoplasmosis, Blastomycosis, Coccidioidomycosis
+- "Endemic fungal pathogens" <br>- Histoplasmosis, Blastomycosis, <br>
 
   - Molds in the environment- yeast at 37°C
 
@@ -149,7 +154,7 @@ It's important to understand where invasive fungal infections fit within the bro
 
 ## Most fungi are not adapted to 37°C {.smaller}
 
-![](fungal-images/Screenshot%202026-02-11%20at%2018.28.59.png){fig-align="center"}
+![](fungal-images/Screenshot%202026-02-11%20at%2018.28.59.png){fig-align="center" width="800"}
 
 ::: aside
 Estimated fungal species: 3-4 million; <br>Known human pathogenic species: \~150-300 species
@@ -159,7 +164,7 @@ Estimated fungal species: 3-4 million; <br>Known human pathogenic species: \~150
 
 <center>Ophiocordyceps unilaterali: "Zombie-ant fungus"</center>
 
-![](fungal-images/Screenshot%202026-02-11%20at%2018.30.40.png){width="600"}
+![](fungal-images/Screenshot%202026-02-11%20at%2018.30.40.png){fig-align="center" width="600"}
 
 ## WHO fungal priority pathogens list (2022)
 
@@ -170,7 +175,7 @@ Estimated fungal species: 3-4 million; <br>Known human pathogenic species: \~150
 **CRITICAL**
 
 - *Cryptococcus neoformans*
-- *Candidozyma auris* <br> (*Candida auris*)
+- ***Candidozyma auris***<br> **(*Candida auris*)**
 - *Aspergillus fumigatus*
 - *Candida albicans*
 :::
@@ -265,7 +270,7 @@ In 2022, WHO released its first fungal priority pathogens list. This was a landm
 
 <br>
 
-![](fungal-images/mechanism.png){fig-align="center" width="800"}
+![](fungal-images/mechanism.png){fig-align="center" width="750"}
 
 ## Antifungal targets
 
@@ -275,8 +280,8 @@ In 2022, WHO released its first fungal priority pathogens list. This was a landm
 ::: {.column width="50%"}
 **Cell Membrane**
 
-- **Polyenes**: Bind ergosterol → extract ergosterol →damage cell membrane → cell death
-- **Azoles**: Inhibit CYP51 (lanosterol 14-α-demethylase) → depleted ergosterol
+- **Polyenes**: Bind ergosterol <br> → extract ergosterol <br> →damage cell membrane <br>→ cell death
+- **Azoles**: Inhibit a fungal CYP51 <br>(lanosterol 14-α-demethylase) <br> → depleted ergosterol
 :::
 
 ::: {.column width="50%"}
@@ -302,20 +307,27 @@ Unlike bacteria, fungi are eukaryotes like us. This limits the number of selecti
 
 <br>
 
-| Agent          | *Candida* | *Aspergillus* | *Cryptococcus* | Mucorales |
-|----------------|-----------|---------------|----------------|-----------|
-| Fluconazole    | ++        | \-            | ++             | \-        |
-| Voriconazole   | +++       | +++           | \+             | \-        |
-| Posaconazole   | +++       | +++           | \+             | ++        |
-| Isavuconazole  | +++       | +++           | \+             | ++        |
-| Echinocandins  | +++       | ++            | \-             | \-        |
-| Amphotericin B | +++       | ++            | +++            | +++       |
++----------------+-------------+---------------+----------------+-------------+
+| Agent          | *Candida*   | *Aspergillus* | *Cryptococcus* | Mucorales   |
++================+=============+===============+================+=============+
+| Fluconazole    | ++          | \-            | ++             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Voriconazole   | +++         | +++           | \+             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Posaconazole   | +++         | +++           | \+             | ++          |
++----------------+-------------+---------------+----------------+-------------+
+| Isavuconazole  | +++         | +++           | \+             | ++          |
++----------------+-------------+---------------+----------------+-------------+
+| Echinocandins  | +++         | ++            | \-             | \-          |
++----------------+-------------+---------------+----------------+-------------+
+| Amphotericin B | +++         | ++            | +++            | +++         |
++----------------+-------------+---------------+----------------+-------------+
 
 ::: notes
 This table is critical for clinical decision-making. Key points: Fluconazole has NO mold activity. Echinocandins don't work against Cryptococcus or Mucorales. Only amphotericin B, posaconazole, and isavuconazole cover Mucorales. This is why empiric therapy choices matter so much when we don't know the pathogen.
 :::
 
-## Tissue Distribution Matters!
+## Tissue distribution matters!
 
 <br>
 
@@ -359,13 +371,13 @@ Tissue penetration is a major factor in drug selection. The most important clini
 
 ## We repeat this experiment daily in ICUs
 
-![](fungal-images/img-080.jpg){fig-align="center" width="800"}
+![](fungal-images/img-080.jpg){fig-align="center" width="700"}
 
 ## Invasive candidiasis: An overview
 
 <br> <br>
 
-::: incremental
+::: {}
 - **Most common** invasive fungal infection in hospitalized patients
 - Annual incidence: 2-14 per 100,000 persons
 - Attributable mortality: 15-25%
@@ -452,7 +464,15 @@ When you see these risk factors cluster, your suspicion for candidemia should in
 Understanding parthogenesis helps us target prevention. Candida needs a portal of entry: damaged gut mucosa from chemotherapy, breached skin from catheters, or compromised immunity. The biofilm-forming ability of Candida, especially C. parapsilosis, is why catheter removal is so important.[@pappas2018]
 :::
 
-## Clinical presentations
+## Mucosal candidiasis
+
+<br> <br>
+
+<center> Defects in cell-mediated immunity </center>
+
+![](fungal-images/mucocutaneous.png){fig-align="center"}
+
+## Clinical presentation
 
 <br> <br>
 
@@ -480,17 +500,13 @@ Understanding parthogenesis helps us target prevention. Candida needs a portal o
 - Vision changes
 - Eye pain
 - Occurs in 10-15% of candidemia
-- **All patients need dilated eye exam**
+- **All patients need dilated** <br>**eye exam**
 :::
 ::::::
 
 ::: aside
 Candidemia is often clinically indistinguishable from bacteremia. The lack of localizing signs early on makes diagnosis challenging. Hepatosplenic candidiasis typically presents after neutrophil recovery with persistent fever and elevated alkaline phosphatase. Endophthalmitis is why we mandate dilated eye exams for all candidemia patients.
 :::
-
-## Mucosal candidiasis
-
-![](fungal-images/mucocutaneous.png){fig-align="center"}
 
 ## Disseminated candidiasis
 
@@ -520,7 +536,7 @@ Candidemia is often clinically indistinguishable from bacteremia. The lack of lo
 
 ![](fungal-images/hepatosplenic.png){fig-align="center" width="600"}
 
-Increasing alkaline phosphatase, fever as neutrophils recover
+<center> Increasing alkaline phosphatase, fever as neutrophils recover</center>
 
 ## What cultures miss in invasive candidiasis {.smaller}
 
@@ -539,19 +555,35 @@ Increasing alkaline phosphatase, fever as neutrophils recover
 
 ## Histopathology
 
-|  |
-|------------------------------------------------------------------------|
-| ![](fungal-images/Candida_PAS.png) \| ![](fungal-images/Candida_GMS.png) \| \| PAS stain \| GMS stain \| |
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+![](fungal-images/candida_he.png){fig-align="center" width="650"}
+
+<center>H&E stain</center>
+:::
+
+::: {.column width="50%"}
+![](fungal-images/Candida_GMS.png){fig-align="center"}
+
+<center>GMS stain</center>
+:::
+:::::
 
 ## Non-culture diagnostics
 
 <br> <br>
 
-| Test | Sensitivity | Specificity | Turnaround |
-|------------------|------------------|------------------|------------------|
-| β-D-glucan | 75-80% | 80% | Same day |
-| T2Candida | 91% | 99% | 3-5 hours |
-| Candida PCR | 85-95% | 90-95% | Variable- Test not well standardized or widely used |
++----------------+----------------+----------------+-----------------------------------------------------+
+| Test           | Sensitivity    | Specificity    | Turnaround                                          |
++================+================+================+=====================================================+
+| β-D-glucan     | 75-80%         | 80%            | Same day                                            |
++----------------+----------------+----------------+-----------------------------------------------------+
+| T2Candida      | 91%            | 99%            | 3-5 hours                                           |
++----------------+----------------+----------------+-----------------------------------------------------+
+| Candida PCR    | 85-95%         | 90-95%         | Variable- Test not well standardized or widely used |
++----------------+----------------+----------------+-----------------------------------------------------+
 
 ::: callout-tip
 - Combining blood cultures + BDG increases sensitivity to \>90%
@@ -636,13 +668,19 @@ The 14-day clock starts with the first negative blood culture, not the first pos
 
 <br> <br>
 
-| Species | Fluconazole | Echinocandins | Clinical Note |
-|------------------|------------------|------------------|------------------|
-| *C. albicans* | S ≤2 | S ≤0.25 | Usually susceptible |
-| *C. glabrata* | SDD ≤32 | S ≤0.12 | Check both! |
-| *C. krusei* | **Intrinsic R** | S | Never use fluconazole |
-| *C. parapsilosis* | S ≤2 | Higher MICs | Fluconazole often preferred, but resistance increasing in some centers |
-| *C. auris* | Often R | Variable | Test everything |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| Species           | Fluconazole     | Echinocandins  | Clinical Note                                                          |
++===================+=================+================+========================================================================+
+| *C. albicans*     | S ≤2            | S ≤0.25        | Usually susceptible                                                    |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. glabrata*     | SDD ≤32         | S ≤0.12        | Check both!                                                            |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. krusei*       | **Intrinsic R** | S              | Never use fluconazole                                                  |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. parapsilosis* | S ≤2            | Higher MICs    | Fluconazole often preferred, but resistance increasing in some centers |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
+| *C. auris*        | Often R         | Variable       | Test everything                                                        |
++-------------------+-----------------+----------------+------------------------------------------------------------------------+
 
 <br> Species identification usually drives empiric therapy
 
@@ -716,10 +754,15 @@ Cryptococcosis remains one of the leading causes of death in people living with 
 
 <br> <br>
 
-| Species | Primary Host | Geography | Environment |
-|------------------|------------------|------------------|------------------|
-| *C. neoformans* | Immunocompromised | Worldwide | Soil, bird droppings |
-| *C. gattii* | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees |
++-----------------+-------------------------------+--------------------------------+----------------------+
+| Species         | Primary Host                  | Geography                      | Environment          |
++=================+===============================+================================+======================+
+| *C. neoformans* | Immunocompromised             | Worldwide                      | Soil, bird droppings |
++-----------------+-------------------------------+--------------------------------+----------------------+
+| *C. gattii*     | Immunocompetent + compromised | Pacific NW, Australia, Tropics | Eucalyptus trees     |
++-----------------+-------------------------------+--------------------------------+----------------------+
+
+<br> <br>
 
 :::: fragment
 ::: callout-note
@@ -740,6 +783,8 @@ C. neoformans is the main pathogen in HIV/AIDS and transplant recipients. C. gat
 :::
 
 ## Immune response to cryptococcosis
+
+<center>IRIS- Immune Reconstitution Inflammatory syndrome</center>
 
 ![](fungal-images/cryptocococcosis.png){fig-align="center" width="800"}
 
@@ -902,18 +947,24 @@ The lateral flow assay for CrAg is a game-changer, especially in resource-limite
 The CSF profile looks like a lymphocytic meningitis. Note that in severely immunocompromised patients, CSF WBC may be low due to poor inflammatory response. This actually portends a worse prognosis. Opening pressure must always be measured and documented.
 :::
 
-## Treatment phases
+## Cryptococcal meningitis: Treatment phases
 
 <br> <br>
 
-|   | **Induction** (2 weeks) | **Consolidation** (8 weeks) | **Maintenance** |
-|------------------|------------------|------------------|------------------|
-| **Preferred** | L-AMB 10 mg/kg × 1 dose <br> + Flucytosine × 14 days <br> + Fluconazole 1200 mg/day × 14 days | Fluconazole 800 mg/day | Fluconazole 200 mg/day |
-| **Alternative** | AmB deoxycholate 1 mg/kg/day × 7 days <br> + Flucytosine × 7 days | — | — |
-| **Duration/stop** | — | — | CD4 \>100 for ≥3 months on ART |
++------------------------+-----------------------------------------------------------------------------------------------+-----------------------------+--------------------------------+
+|                        | **Induction** (2 weeks)                                                                       | **Consolidation** (8 weeks) | **Maintenance**                |
++========================+===============================================================================================+=============================+================================+
+| **Preferred**          | L-AMB 10 mg/kg × 1 dose <br> + Flucytosine × 14 days <br> + Fluconazole 1200 mg/day × 14 days | Fluconazole 800 mg/day      | Fluconazole 200 mg/day         |
++------------------------+-----------------------------------------------------------------------------------------------+-----------------------------+--------------------------------+
+| **Alternative**        | AmB deoxycholate 1 mg/kg/day × 7 days <br> + Flucytosine × 7 days                             | —                           | —                              |
+|                        |                                                                                               |                             |                                |
+| (WHO standard regimen) |                                                                                               |                             |                                |
++------------------------+-----------------------------------------------------------------------------------------------+-----------------------------+--------------------------------+
+| **Duration/stop**      | —                                                                                             | —                           | CD4 \>100 for ≥3 months on ART |
++------------------------+-----------------------------------------------------------------------------------------------+-----------------------------+--------------------------------+
 
-::: notes
-The three-phase approach is critical. Induction focuses on rapid fungicidal activity. Consolidation reduces the fungal burden further. Maintenance prevents relapse until immune reconstitution. Premature discontinuation of maintenance is a common cause of relapse. In transplant recipients, maintenance may be needed indefinitely.
+::: aside
+The three-phase approach is critical. Induction focuses on rapid fungicidal activity. Consolidation reduces the fungal burden further. Maintenance prevents relapse until immune reconstitution. Premature discontinuation of maintenance is a common cause of relapse. In transplant recipients, maintenance may be needed indefinitely. In resource limited settings, liposomal AMB or flucytosine may not be available.
 :::
 
 ## The AMBITION trial
@@ -938,7 +989,7 @@ The three-phase approach is critical. Induction focuses on rapid fungicidal acti
 :::
 
 ::: {.column width="50%"}
-![](fungal-images/img-170.jpg){fig-align="center" width="400"}
+![![](images/clipboard-1954129442.jpeg)](fungal-images/img-170.jpg){fig-align="center" width="350"}
 :::
 :::::
 
@@ -958,7 +1009,7 @@ The three-phase approach is critical. Induction focuses on rapid fungicidal acti
 - Low CSF white cell count
 - Underlying malignancy
 - Inadequate ICP management
-- Delayed ART initiation (but too early ALSO problematic)
+- Delayed ART initiation (but too early ALSO problematic)- start 4-6 weeks after anti-retroviral therapy (ART) initiation
 
 ::: aside
 The CSF fungal burden is perhaps the strongest predictor. This is why quantitative cultures or CrAg titers have prognostic value. Low CSF WBC indicates poor inflammatory response and worse outcome. ART timing is tricky - IRIS can be fatal, but delay allows continued immunosuppression. Current guidance: start ART 4-6 weeks after initiation of antifungal therapy.
@@ -966,7 +1017,7 @@ The CSF fungal burden is perhaps the strongest predictor. This is why quantitati
 
 # Part 4: Invasive aspergillosis {background-color="#8B0000"}
 
-## Spectrum of Aspergillus disease
+## Spectrum of *Aspergillus* disease
 
 ![](fungal-images/img-182.jpg){fig-align="center" width="600"}
 
@@ -986,7 +1037,7 @@ This U-shaped curve illustrates how host immunity determines the clinical presen
 | *A. terreus*   | 2-5%      | **Amphotericin B resistant**           |
 | *A. nidulans*  | Rare      | CGD-associated                         |
 
-::: notes
+::: aside
 A. fumigatus dominates, but species identification matters. A. terreus is intrinsically amphotericin B resistant - you must use a triazole. A. flavus is more common in sinusitis. Knowing your local epidemiology helps guide empiric therapy.
 :::
 
@@ -1000,7 +1051,7 @@ A. fumigatus dominates, but species identification matters. A. terreus is intrin
 
 ::::: columns
 ::: {.column width="50%"}
-**Aspergillus Morphology:**
+**Aspergillus morphology:**
 
 - Conidia (2-3 μm) ubiquitous in air
 - Inhaled daily by everyone
@@ -1008,7 +1059,7 @@ A. fumigatus dominates, but species identification matters. A. terreus is intrin
 :::
 
 ::: {.column width="50%"}
-**Host Defenses:**
+**Host defenses:**
 
 1.  Mucociliary clearance
 2.  Alveolar macrophages kill conidia
@@ -1020,6 +1071,8 @@ A. fumigatus dominates, but species identification matters. A. terreus is intrin
 Immunocompetent hosts clear thousands of conidia daily without disease
 :::
 
+<br> <br> <br>
+
 ::: aside
 We all breathe in Aspergillus spores constantly. The difference between health and disease is the immune response. Conidia are small enough to reach the alveoli. Macrophages are the first line of defense. If conidia germinate, neutrophils are critical for killing hyphae. This explains why neutropenic patients are at such high risk.
 :::
@@ -1030,7 +1083,7 @@ We all breathe in Aspergillus spores constantly. The difference between health a
 
 ::::: columns
 ::: {.column width="50%"}
-**Classic High-Risk:**
+**Classic high-risk:**
 
 - Prolonged neutropenia (≥3 weeks)
 - Allogeneic Hematopoetic stem cell transplantation
@@ -1039,7 +1092,7 @@ We all breathe in Aspergillus spores constantly. The difference between health a
 :::
 
 ::: {.column width="50%"}
-**Emerging Risk Groups:**
+**Emerging risk groups:**
 
 - High-dose corticosteroids
 - Ibrutinib, BTK inhibitors (used for chronic lymphocytic leukemia)
@@ -1053,7 +1106,7 @@ We all breathe in Aspergillus spores constantly. The difference between health a
 The risk factor profile is expanding. Classic groups remain important, but we're seeing more IA in patients on novel immunosuppressants. COVID-19 associated pulmonary aspergillosis (CAPA) emerged as a significant concern during the pandemic. Even patients without traditional risk factors can develop IA in the ICU setting.
 :::
 
-## Bronchial-Alveolar Phase
+## Bronchial-alveolar phase
 
 <br>
 
@@ -1075,21 +1128,27 @@ The risk factor profile is expanding. Classic groups remain important, but we're
 :::
 :::::
 
-::: notes
+::: aside
 Early in infection, the disease is confined to airways. This is actually a better prognosis than angioinvasive disease. CT shows small airway involvement. Serum galactomannan may be negative because there's limited bloodstream invasion. BAL sampling is valuable at this stage.
 :::
 
-## Angioinvasive Phase: Progression
+## Angioinvasive phase: progression
 
 ![](fungal-images/CT%20evolution.png){fig-align="center"}
 
-| Day   | Pathology              | CT Finding                             |
-|-------|------------------------|----------------------------------------|
-| 0-3   | Airway invasion        | Bronchial thickening, <br> tree-in-bud |
-| 3-7   | Hyphal invasion        | Macronodule ± halo                     |
-| 5-7   | Hemorrhage, infarction | Dense consolidation                    |
-| 10-12 | Extensive necrosis     | Hypodense sign                         |
-| 15-18 | Neutrophil recovery    | Air-crescent sign                      |
++-------------+------------------------+----------------------------------------+
+| Day         | Pathology              | CT Finding                             |
++=============+========================+========================================+
+| 0-3         | Airway invasion        | Bronchial thickening, <br> tree-in-bud |
++-------------+------------------------+----------------------------------------+
+| 3-7         | Hyphal invasion        | Macronodule ± halo                     |
++-------------+------------------------+----------------------------------------+
+| 5-7         | Hemorrhage, infarction | Dense consolidation                    |
++-------------+------------------------+----------------------------------------+
+| 10-12       | Extensive necrosis     | Hypodense sign                         |
++-------------+------------------------+----------------------------------------+
+| 15-18       | Neutrophil recovery    | Air-crescent sign                      |
++-------------+------------------------+----------------------------------------+
 
 ::: aside
 This timeline is important for interpreting CT findings. The halo sign appears early when hemorrhage surrounds an infarcted nodule. As disease progresses, the halo disappears and consolidation becomes dense. The air-crescent sign is actually a sign of recovery - it appears when neutrophils return and cavitation begins. The timing of signs depends on degree of immunosuppression and neutropenia- i.e. non-neutropenic patients may have longer periods of airway invasive disease
@@ -1172,9 +1231,19 @@ Galactomannan is a polysaccharide from the Aspergillus cell wall. It performs be
 
 ## Asperguillus histopathology
 
-|  |
-|------------------------------------------------------------------------|
-| ![](fungal-images/aspergillus_gms.png) \| ![](fungal-images/calcoflour.png) \| \| GMS in tissue staining \| Calcoflour in BAL washing \| |
+::::: columns
+::: {.column width="50%"}
+![](fungal-images/aspergillus_gms.png){fig-align="center"}
+
+GMS stains
+:::
+
+::: {.column width="50%"}
+![](fungal-images/calcoflour.png){fig-align="center"}
+
+Calcofluor
+:::
+:::::
 
 ## Diagnosis summary
 
@@ -1240,7 +1309,7 @@ Breakthrough on posaconazole prophylaxis raises concerns for resistance or inade
 
 ## Triazole resistance: Emerging threat
 
-![](fungal-images/vori_resistance.png){width="442"}
+![](fungal-images/vori_resistance.png){fig-align="center" width="350"}
 
 - TR34/L98H, TR46/Y121F/T289A mutations
 - Environmental origin (agricultural fungicides)
@@ -1289,6 +1358,8 @@ Fusarium infections infections may present in a similar fashion as aspergillosis
 
 ## Healthcare-associated outbreaks of Fusarium infection
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
 - A multinational outbreak (185 exposed, 9 cases) of nosocomial fusarium meningitis occurred among immunocompetent patients who had undergone cosmetic surgery with epidural anesthesia in Mexico 
@@ -1307,15 +1378,17 @@ Fusarium infections infections may present in a similar fashion as aspergillosis
 
 ## General summary: Fusarium infections
 
-- Most common scenario: Persistent neutropenia 
+<br>
+
+- Most common scenario: Persistent neutropenia
 
 - Most common species:
 
-  -  *F. solani* complex (50%), *F. oxysporum*\* (14%), *F. verticillioides* (10-11%) 
+  - *F. solani* complex (50%), *F. oxysporum*\* (14%), *F. verticillioides* (10-11%)
 
 - Macroconidia are classic (banana-shaped)
 
--  PCR, rRNA in situ hybridization available, still investigational 
+- PCR, rRNA in situ hybridization available, still investigational
 
 - **Positive blood cultures in 30-50% of cases**
 
@@ -1329,18 +1402,11 @@ The role of antifungal susceptibility testing is controversial- however it is cl
 
 # Part 6: Mucormycosis {background-color="#8B0000"}
 
-## Mucorales: The Scariest Fungi?
+## Mucorales: The worst pathogen?
 
 :::::: columns
 ::: {.column width="60%"}
 ![](fungal-images/twitter.png){fig-align="center" width="600"}
-
-Twitter poll of ID specialists:
-
-- Mucor spp./Mucormycosis: **44%**
-- *Staph aureus*: 24%
-- *Candida auris*: 18%
-- SARS-CoV-2: 14%
 :::
 
 :::: {.column width="40%"}
@@ -1361,7 +1427,7 @@ This informal poll captures how infectious disease specialists feel about mucorm
 
 ## Ecology of Mucorales
 
-![](fungal-images/mucor_ecology.png){fig-align="center"}
+![](fungal-images/mucor_ecology.png){fig-align="center" width="350"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1387,11 +1453,11 @@ This informal poll captures how infectious disease specialists feel about mucorm
 Mucorales are ubiquitous environmental saprophytes. We've seen outbreaks linked to contaminated medical supplies, hospital construction, and even natural disasters. Their rapid growth is remarkable - you can see colony growth on agar plates within 24-48 hours, hence the "lid lifter" description.
 :::
 
-## Nosocomial outbreaks
+## Nosocomial and community outbreaks
 
-![](fungal-images/nosocolìmial.png){fig-align="center"}
+![](fungal-images/mucor_nosocomial.png){fig-align="center"}
 
-## Risk Factors for Mucormycosis
+## Risk factors for mucormycosis
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1416,14 +1482,14 @@ Mucorales are ubiquitous environmental saprophytes. We've seen outbreaks linked 
 :::::
 
 ::: fragment
-**Others:** Trauma, burns, combat injuries, COVID-19
+**Others:** Trauma, natural disasters (e.g., tornadoes, tsunamis, burns), combat injuries, COVID-19
 :::
 
-::: notes
+::: aside
 The metabolic risk factors are critical to understand. DKA creates the perfect storm: acidosis, hyperglycemia, and elevated free iron all promote Mucorales growth. Deferoxamine acts as a siderophore for the fungus - deferasirox does not carry this risk. The COVID-19 outbreak in India highlighted the deadly combination of viral illness, corticosteroids, and uncontrolled diabetes.
 :::
 
-## Common Mucorales Species
+## Common Mucorales species
 
 | Genus            | Features                               |
 |------------------|----------------------------------------|
@@ -1433,7 +1499,7 @@ The metabolic risk factors are critical to understand. DKA creates the perfect s
 | *Rhizomucor*     | More aggressive                        |
 | *Cunninghamella* | Disseminated disease; worst prognosis  |
 
-::: notes
+::: aside
 Rhizopus species cause the majority of cases. Species identification matters because some have worse outcomes - Cunninghamella, for example, is associated with disseminated disease and very poor prognosis. Culture and molecular identification should be attempted when possible.
 :::
 
@@ -1441,19 +1507,13 @@ Rhizopus species cause the majority of cases. Species identification matters bec
 
 ![](fungal-images/mucor_pathogenesis.png)
 
-:::: fragment
-::: callout-important
-**Deferoxamine** acts as a fungal siderophore - increases risk!
-
-**Deferasirox** does NOT increase risk - use this for iron chelation
-:::
-::::
-
-::: notes
+::: aside
 The pathogenesis explains why certain conditions predispose to mucormycosis. Acidosis releases iron from transferrin. Hyperglycemia impairs neutrophil function. Glucocorticoids impair macrophages. The angioinvasive nature explains the rapid tissue destruction - these organisms invade blood vessels, causing infarction.
 :::
 
-## Clinical Manifestations: Rhino-orbital-cerebral
+## Clinical manifestations: Rhino-orbital-cerebral
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="60%"}
@@ -1475,15 +1535,23 @@ The pathogenesis explains why certain conditions predispose to mucormycosis. Aci
 :::
 :::::
 
-::: notes
-The classic presentation in diabetic patients. What starts as "sinusitis" can progress to death within days. The black eschar is a late sign - don't wait for it. Early signs include facial pain, numbness, nasal stuffines, hard palette lesions. Any diabetic patient with periorbital swelling or facial swelling needs urgent evaluation. Time is tissue.
+::: aside
+The classic presentation in diabetic patients, less common in neutropenics. What starts as "sinusitis" can progress to death within days. The black eschar is a late sign - don't wait for it. Early signs include facial pain, numbness, nasal stuffines, hard palette lesions. Any diabetic patient with periorbital swelling or facial swelling needs urgent evaluation. **Time is tissue.**
 :::
 
 ## Cavernous sinus invasion
 
 ![](fungal-images/sinus_invasion.png){fig-align="center"}
 
-## MRI: "Black Turbinate Sign"
+## Nasal endoscopy
+
+<br>
+
+![](fungal-images/img-312.jpg){fig-align="center"}
+
+## MRI: "Black turbinate sign"
+
+<br>
 
 ![](fungal-images/black_turbinate.png){fig-align="center" width="600"}
 
@@ -1493,11 +1561,13 @@ The classic presentation in diabetic patients. What starts as "sinusitis" can pr
 Loss of enhancement of the turbinates on contrast MRI indicates devitalized tissue - highly suggestive of mucormycosis in the right clinical context
 :::
 
-::: notes
+::: aside
 The black turbinate sign on MRI reflects tissue infarction. This finding should prompt urgent ENT consultation and surgical exploration. CT can miss early disease - MRI is more sensitive for tissue invasion. Don't let normal CT give you false reassurance in a high-risk patient.
 :::
 
-## Pulmonary Mucormycosis
+## Pulmonary mucormycosis
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1516,11 +1586,13 @@ The black turbinate sign on MRI reflects tissue infarction. This finding should 
 :::
 :::::
 
-::: notes
+::: aside
 Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse halo sign (opposite of the Aspergillus halo sign) is relatively specific. However, CT findings overlap significantly with aspergillosis. Clinical context, epidemiology, and ideally tissue diagnosis drive the distinction.
 :::
 
-## Diagnosis of Mucormycosis
+## Diagnosis of mucormycosis
+
+<br>
 
 ::: callout-warning
 ## Critical Point
@@ -1535,11 +1607,11 @@ Pulmonary mucormycosis occurs more often in neutropenic patients. The reverse ha
 - PCR/sequencing: Available in specialized centers
 - MALDI-TOF: For isolate identification
 
-::: notes
-This is crucial - the biomarkers we use for Candida and Aspergillus don't work here. A negative BDG or GM does NOT exclude mucormycosis. You need tissue diagnosis. The hyphae look very different from Aspergillus - they're wide, ribbon-like, with few septa and right-angle branching. Culture is often negative despite tissue positivity.
+::: aside
+The biomarkers we use for Candida and Aspergillus don't work here. A negative BDG or GM does NOT exclude mucormycosis. You need tissue diagnosis. The hyphae look very different from Aspergillus - they're wide, ribbon-like, with few septa and right-angle branching. Culture is often negative despite tissue positivity.
 :::
 
-## Treatment Principles
+## Mucormycosis: Treatment principles
 
 <br>
 
@@ -1548,7 +1620,7 @@ This is crucial - the biomarkers we use for Candida and Aspergillus don't work h
 3.  **Antifungal therapy** - Start immediately, don't wait for diagnosis
 4.  **Source control** - Remove infected devices, dead tissue
 
-::: notes
+::: aside
 All four elements are essential. Surgery is not optional - it's often the difference between survival and death. Debridement needs to be aggressive, removing all necrotic tissue. Patients often need multiple surgeries. Meanwhile, correcting the metabolic abnormalities (especially DKA) is critical to improving host defenses.
 :::
 
@@ -1559,7 +1631,7 @@ All four elements are essential. Surgery is not optional - it's often the differ
 **Initial:**
 
 - Liposomal amphotericin B **5-10 mg/kg/day**
-- Higher doses for CNS involvement
+- Higher doses for CNS involvement (i.e. 10 mg/kg/day)
 - May need prolonged IV therapy
 
 **Step-down:**
