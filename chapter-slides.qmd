@@ -22,7 +22,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-# Invasive Fungal Disease {background-color="#9B0014"}
+# Invasive Fungal Disease {background-color="#9B0014" background-video="fungal-images/petri.mp4" background-opacity="0.5"}
 
 <br> <br>
 
